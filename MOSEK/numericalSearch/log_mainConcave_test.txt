@@ -1,0 +1,73 @@
+======================
+in mainConcave!!!!!
+---------------
+t= 0
+s= 0
+---------------
+bestObjLbd -80.0
+bestLbdPi [1.0, 0.0, 0.0]
+bestLbd 0.0
+---------------
+t= 0
+s= 1
+---------------
+bestObjLbd -80.0
+bestLbdPi [1.0, 0.0, 0.0]
+bestLbd 0.0
+---------------
+t= 0
+s= 2
+---------------
+bestObjLbd -80.0
+bestLbdPi [1.0, 0.0, 0.0]
+bestLbd 0.0
+---------------
+t= 0
+s= 3
+---------------
+bestObjLbd -80.0
+bestLbdPi [1.0, 0.0, 0.0]
+bestLbd 0.0
+---------------
+t= 0
+s= 4
+---------------
+bestObjLbd -130.0
+bestLbdPi [0.0, 0.0, 1.0]
+bestLbd 0.0
+---------------
+t= 1
+s= 0
+---------------
+bestObjLbd -130.0
+bestLbdPi [1.0, 0.0, 0.0]
+bestLbd 0.0
+---------------
+t= 1
+s= 1
+---------------
+bestObjLbd -130.0
+bestLbdPi [1.0, 0.0, 0.0]
+bestLbd 0.0
+---------------
+t= 1
+s= 2
+---------------
+bestObjLbd -130.0
+bestLbdPi [1.0, 0.0, 0.0]
+bestLbd 0.0
+---------------
+t= 1
+s= 3
+---------------
+bestObjLbd -130.0
+bestLbdPi [1.0, 0.0, 0.0]
+bestLbd 0.0
+---------------
+t= 1
+s= 4
+---------------
+bestObjLbd -180.0
+bestLbdPi [0.0, 0.0, 1.0]
+bestLbd 0.0
+time elapsed in mainConcave is  204.2950095

@@ -1,0 +1,6558 @@
+in main!!!!!
+t= 0
+s= 0
+lbd -0.1
+bestLbd -0.1
+newObjLbd -9999
+bestObjLbd -9999
+bestPi [1.0, 0.0, 0.0]
+lbd 0.0
+bestLbd 0.0
+newObjLbd -80.0
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.1
+bestLbd 0.0
+newObjLbd -80.10133333333333
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.2
+bestLbd 0.0
+newObjLbd -80.20266666666666
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.30000000000000004
+bestLbd 0.0
+newObjLbd -80.30400000000002
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.4
+bestLbd 0.0
+newObjLbd -80.40533333333333
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.5
+bestLbd 0.0
+newObjLbd -80.50666666666666
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.6
+bestLbd 0.0
+newObjLbd -80.60799999999999
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.7
+bestLbd 0.0
+newObjLbd -80.70933333333332
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.7999999999999999
+bestLbd 0.0
+newObjLbd -80.81066666666668
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.8999999999999999
+bestLbd 0.0
+newObjLbd -80.912
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.9999999999999999
+bestLbd 0.0
+newObjLbd -81.01333333333334
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 1.0999999999999999
+bestLbd 0.0
+newObjLbd -81.11466666666666
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 1.2
+bestLbd 0.0
+newObjLbd -81.216
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 1.3
+bestLbd 0.0
+newObjLbd -81.31733333333334
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 1.4000000000000001
+bestLbd 0.0
+newObjLbd -81.41866666666667
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 1.5000000000000002
+bestLbd 0.0
+newObjLbd -81.52
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 1.6000000000000003
+bestLbd 0.0
+newObjLbd -81.62133333333333
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 1.7000000000000004
+bestLbd 0.0
+newObjLbd -81.72266666666667
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 1.8000000000000005
+bestLbd 0.0
+newObjLbd -81.824
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 1.9000000000000006
+bestLbd 0.0
+newObjLbd -81.92533333333333
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 2.0000000000000004
+bestLbd 0.0
+newObjLbd -82.02666666666666
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 2.1000000000000005
+bestLbd 0.0
+newObjLbd -82.12799999999999
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 2.2000000000000006
+bestLbd 0.0
+newObjLbd -82.22933333333333
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 2.3000000000000007
+bestLbd 0.0
+newObjLbd -82.33066666666669
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 2.400000000000001
+bestLbd 0.0
+newObjLbd -82.432
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 2.500000000000001
+bestLbd 0.0
+newObjLbd -82.53333333333333
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 2.600000000000001
+bestLbd 0.0
+newObjLbd -82.63466666666666
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 2.700000000000001
+bestLbd 0.0
+newObjLbd -82.736
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 2.800000000000001
+bestLbd 0.0
+newObjLbd -82.83733333333335
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 2.9000000000000012
+bestLbd 0.0
+newObjLbd -82.93866666666668
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 3.0000000000000013
+bestLbd 0.0
+newObjLbd -83.04
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 3.1000000000000014
+bestLbd 0.0
+newObjLbd -83.14133333333334
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 3.2000000000000015
+bestLbd 0.0
+newObjLbd -83.24266666666668
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 3.3000000000000016
+bestLbd 0.0
+newObjLbd -83.34400000000001
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 3.4000000000000017
+bestLbd 0.0
+newObjLbd -83.44533333333334
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 3.5000000000000018
+bestLbd 0.0
+newObjLbd -83.54666666666667
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 3.600000000000002
+bestLbd 0.0
+newObjLbd -83.64800000000001
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 3.700000000000002
+bestLbd 0.0
+newObjLbd -83.74933333333334
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 3.800000000000002
+bestLbd 0.0
+newObjLbd -83.85066666666667
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 3.900000000000002
+bestLbd 0.0
+newObjLbd -83.952
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 4.000000000000002
+bestLbd 0.0
+newObjLbd -84.05333333333333
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 4.100000000000001
+bestLbd 0.0
+newObjLbd -84.15466666666666
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 4.200000000000001
+bestLbd 0.0
+newObjLbd -84.256
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 4.300000000000001
+bestLbd 0.0
+newObjLbd -84.35733333333334
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 4.4
+bestLbd 0.0
+newObjLbd -84.45866666666667
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 4.5
+bestLbd 0.0
+newObjLbd -84.56
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 4.6
+bestLbd 0.0
+newObjLbd -84.66133333333333
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 4.699999999999999
+bestLbd 0.0
+newObjLbd -84.76266666666666
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 4.799999999999999
+bestLbd 0.0
+newObjLbd -84.86399999999999
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 4.899999999999999
+bestLbd 0.0
+newObjLbd -84.96533333333332
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 4.999999999999998
+bestLbd 0.0
+newObjLbd -85.06666666666666
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 5.099999999999998
+bestLbd 0.0
+newObjLbd -85.168
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 5.1999999999999975
+bestLbd 0.0
+newObjLbd -85.26933333333334
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 5.299999999999997
+bestLbd 0.0
+newObjLbd -85.37066666666666
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 5.399999999999997
+bestLbd 0.0
+newObjLbd -85.472
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 5.4999999999999964
+bestLbd 0.0
+newObjLbd -85.57333333333332
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 5.599999999999996
+bestLbd 0.0
+newObjLbd -85.67466666666667
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 5.699999999999996
+bestLbd 0.0
+newObjLbd -85.77599999999998
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 5.799999999999995
+bestLbd 0.0
+newObjLbd -85.87733333333333
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 5.899999999999995
+bestLbd 0.0
+newObjLbd -85.97866666666667
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 5.999999999999995
+bestLbd 0.0
+newObjLbd -86.08
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 6.099999999999994
+bestLbd 0.0
+newObjLbd -86.18133333333333
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 6.199999999999994
+bestLbd 0.0
+newObjLbd -86.28266666666666
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 6.299999999999994
+bestLbd 0.0
+newObjLbd -86.384
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 6.399999999999993
+bestLbd 0.0
+newObjLbd -86.48533333333333
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 6.499999999999993
+bestLbd 0.0
+newObjLbd -86.58666666666667
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 6.5999999999999925
+bestLbd 0.0
+newObjLbd -86.68799999999999
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 6.699999999999992
+bestLbd 0.0
+newObjLbd -86.78933333333333
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 6.799999999999992
+bestLbd 0.0
+newObjLbd -86.89066666666666
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 6.8999999999999915
+bestLbd 0.0
+newObjLbd -86.99199999999999
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 6.999999999999991
+bestLbd 0.0
+newObjLbd -87.09333333333333
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 7.099999999999991
+bestLbd 0.0
+newObjLbd -87.19466666666666
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 7.19999999999999
+bestLbd 0.0
+newObjLbd -87.29599999999999
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 7.29999999999999
+bestLbd 0.0
+newObjLbd -87.39733333333334
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 7.39999999999999
+bestLbd 0.0
+newObjLbd -87.49866666666665
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 7.499999999999989
+bestLbd 0.0
+newObjLbd -87.6
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 7.599999999999989
+bestLbd 0.0
+newObjLbd -87.70133333333332
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 7.699999999999989
+bestLbd 0.0
+newObjLbd -87.80266666666665
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 7.799999999999988
+bestLbd 0.0
+newObjLbd -87.904
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 7.899999999999988
+bestLbd 0.0
+newObjLbd -88.00533333333333
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 7.999999999999988
+bestLbd 0.0
+newObjLbd -88.10666666666665
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 8.099999999999987
+bestLbd 0.0
+newObjLbd -88.208
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 8.199999999999987
+bestLbd 0.0
+newObjLbd -88.30933333333333
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 8.299999999999986
+bestLbd 0.0
+newObjLbd -88.41066666666666
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 8.399999999999986
+bestLbd 0.0
+newObjLbd -88.512
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 8.499999999999986
+bestLbd 0.0
+newObjLbd -88.61333333333332
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 8.599999999999985
+bestLbd 0.0
+newObjLbd -88.71466666666666
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 8.699999999999985
+bestLbd 0.0
+newObjLbd -88.81599999999999
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 8.799999999999985
+bestLbd 0.0
+newObjLbd -88.91733333333332
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 8.899999999999984
+bestLbd 0.0
+newObjLbd -89.01866666666666
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 8.999999999999984
+bestLbd 0.0
+newObjLbd -89.11999999999999
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 9.099999999999984
+bestLbd 0.0
+newObjLbd -89.22133333333332
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 9.199999999999983
+bestLbd 0.0
+newObjLbd -89.32266666666666
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 9.299999999999983
+bestLbd 0.0
+newObjLbd -89.42399999999998
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 9.399999999999983
+bestLbd 0.0
+newObjLbd -89.52533333333332
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 9.499999999999982
+bestLbd 0.0
+newObjLbd -89.62666666666665
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 9.599999999999982
+bestLbd 0.0
+newObjLbd -89.72799999999998
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 9.699999999999982
+bestLbd 0.0
+newObjLbd -89.82933333333332
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 9.799999999999981
+bestLbd 0.0
+newObjLbd -89.93066666666665
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 9.89999999999998
+bestLbd 0.0
+newObjLbd -90.03199999999998
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 9.99999999999998
+bestLbd 0.0
+newObjLbd -90.13333333333333
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+bestLbd 0.0
+t= 0
+s= 1
+lbd -0.1
+bestLbd -0.1
+newObjLbd -9999
+bestObjLbd -9999
+bestPi [1.0, 0.0, 0.0]
+lbd 0.0
+bestLbd 0.0
+newObjLbd -80.0
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.1
+bestLbd 0.0
+newObjLbd -80.11666666666666
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.2
+bestLbd 0.0
+newObjLbd -80.23333333333333
+bestObjLbd -80.0
+bestPi [0.75, 0.25, 0.0]
+lbd 0.30000000000000004
+bestLbd 0.0
+newObjLbd -80.254
+bestObjLbd -80.0
+bestPi [0.75, 0.25, 0.0]
+lbd 0.4
+bestLbd 0.0
+newObjLbd -80.172
+bestObjLbd -80.0
+bestPi [0.75, 0.25, 0.0]
+lbd 0.5
+bestLbd 0.0
+newObjLbd -80.08999999999999
+bestObjLbd -80.0
+bestPi [0.75, 0.25, 0.0]
+lbd 0.6
+bestLbd 0.0
+newObjLbd -80.008
+bestObjLbd -80.0
+bestPi [0.75, 0.25, 0.0]
+lbd 0.7
+bestLbd 0.7
+newObjLbd -79.926
+bestObjLbd -79.926
+bestPi [0.75, 0.25, 0.0]
+lbd 0.7999999999999999
+bestLbd 0.7999999999999999
+newObjLbd -79.84400000000001
+bestObjLbd -79.84400000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 0.8999999999999999
+bestLbd 0.8999999999999999
+newObjLbd -79.762
+bestObjLbd -79.762
+bestPi [0.75, 0.25, 0.0]
+lbd 0.9999999999999999
+bestLbd 0.9999999999999999
+newObjLbd -79.68
+bestObjLbd -79.68
+bestPi [0.75, 0.25, 0.0]
+lbd 1.0999999999999999
+bestLbd 1.0999999999999999
+newObjLbd -79.598
+bestObjLbd -79.598
+bestPi [0.75, 0.25, 0.0]
+lbd 1.2
+bestLbd 1.2
+newObjLbd -79.51599999999999
+bestObjLbd -79.51599999999999
+bestPi [0.75, 0.25, 0.0]
+lbd 1.3
+bestLbd 1.3
+newObjLbd -79.43400000000001
+bestObjLbd -79.43400000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 1.4000000000000001
+bestLbd 1.4000000000000001
+newObjLbd -79.352
+bestObjLbd -79.352
+bestPi [0.75, 0.25, 0.0]
+lbd 1.5000000000000002
+bestLbd 1.5000000000000002
+newObjLbd -79.27
+bestObjLbd -79.27
+bestPi [0.75, 0.25, 0.0]
+lbd 1.6000000000000003
+bestLbd 1.6000000000000003
+newObjLbd -79.18799999999999
+bestObjLbd -79.18799999999999
+bestPi [0.75, 0.25, 0.0]
+lbd 1.7000000000000004
+bestLbd 1.7000000000000004
+newObjLbd -79.106
+bestObjLbd -79.106
+bestPi [0.75, 0.25, 0.0]
+lbd 1.8000000000000005
+bestLbd 1.8000000000000005
+newObjLbd -79.024
+bestObjLbd -79.024
+bestPi [0.75, 0.25, 0.0]
+lbd 1.9000000000000006
+bestLbd 1.9000000000000006
+newObjLbd -78.94200000000001
+bestObjLbd -78.94200000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 2.0000000000000004
+bestLbd 2.0000000000000004
+newObjLbd -78.86
+bestObjLbd -78.86
+bestPi [0.75, 0.25, 0.0]
+lbd 2.1000000000000005
+bestLbd 2.1000000000000005
+newObjLbd -78.77799999999999
+bestObjLbd -78.77799999999999
+bestPi [0.75, 0.25, 0.0]
+lbd 2.2000000000000006
+bestLbd 2.2000000000000006
+newObjLbd -78.696
+bestObjLbd -78.696
+bestPi [0.75, 0.25, 0.0]
+lbd 2.3000000000000007
+bestLbd 2.3000000000000007
+newObjLbd -78.614
+bestObjLbd -78.614
+bestPi [0.75, 0.25, 0.0]
+lbd 2.400000000000001
+bestLbd 2.400000000000001
+newObjLbd -78.532
+bestObjLbd -78.532
+bestPi [0.75, 0.25, 0.0]
+lbd 2.500000000000001
+bestLbd 2.500000000000001
+newObjLbd -78.45
+bestObjLbd -78.45
+bestPi [0.75, 0.25, 0.0]
+lbd 2.600000000000001
+bestLbd 2.600000000000001
+newObjLbd -78.368
+bestObjLbd -78.368
+bestPi [0.75, 0.25, 0.0]
+lbd 2.700000000000001
+bestLbd 2.700000000000001
+newObjLbd -78.286
+bestObjLbd -78.286
+bestPi [0.75, 0.25, 0.0]
+lbd 2.800000000000001
+bestLbd 2.800000000000001
+newObjLbd -78.204
+bestObjLbd -78.204
+bestPi [0.75, 0.25, 0.0]
+lbd 2.9000000000000012
+bestLbd 2.9000000000000012
+newObjLbd -78.12199999999999
+bestObjLbd -78.12199999999999
+bestPi [0.75, 0.25, 0.0]
+lbd 3.0000000000000013
+bestLbd 3.0000000000000013
+newObjLbd -78.03999999999999
+bestObjLbd -78.03999999999999
+bestPi [0.75, 0.25, 0.0]
+lbd 3.1000000000000014
+bestLbd 3.1000000000000014
+newObjLbd -77.958
+bestObjLbd -77.958
+bestPi [0.75, 0.25, 0.0]
+lbd 3.2000000000000015
+bestLbd 3.2000000000000015
+newObjLbd -77.876
+bestObjLbd -77.876
+bestPi [0.75, 0.25, 0.0]
+lbd 3.3000000000000016
+bestLbd 3.3000000000000016
+newObjLbd -77.794
+bestObjLbd -77.794
+bestPi [0.75, 0.25, 0.0]
+lbd 3.4000000000000017
+bestLbd 3.4000000000000017
+newObjLbd -77.712
+bestObjLbd -77.712
+bestPi [0.75, 0.25, 0.0]
+lbd 3.5000000000000018
+bestLbd 3.5000000000000018
+newObjLbd -77.63
+bestObjLbd -77.63
+bestPi [0.75, 0.25, 0.0]
+lbd 3.600000000000002
+bestLbd 3.600000000000002
+newObjLbd -77.548
+bestObjLbd -77.548
+bestPi [0.75, 0.25, 0.0]
+lbd 3.700000000000002
+bestLbd 3.700000000000002
+newObjLbd -77.46600000000001
+bestObjLbd -77.46600000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 3.800000000000002
+bestLbd 3.800000000000002
+newObjLbd -77.384
+bestObjLbd -77.384
+bestPi [0.75, 0.25, 0.0]
+lbd 3.900000000000002
+bestLbd 3.900000000000002
+newObjLbd -77.30199999999999
+bestObjLbd -77.30199999999999
+bestPi [0.75, 0.25, 0.0]
+lbd 4.000000000000002
+bestLbd 4.000000000000002
+newObjLbd -77.22
+bestObjLbd -77.22
+bestPi [0.75, 0.25, 0.0]
+lbd 4.100000000000001
+bestLbd 4.100000000000001
+newObjLbd -77.13799999999998
+bestObjLbd -77.13799999999998
+bestPi [0.75, 0.25, 0.0]
+lbd 4.200000000000001
+bestLbd 4.200000000000001
+newObjLbd -77.05600000000001
+bestObjLbd -77.05600000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 4.300000000000001
+bestLbd 4.300000000000001
+newObjLbd -76.974
+bestObjLbd -76.974
+bestPi [0.75, 0.25, 0.0]
+lbd 4.4
+bestLbd 4.4
+newObjLbd -76.892
+bestObjLbd -76.892
+bestPi [0.75, 0.25, 0.0]
+lbd 4.5
+bestLbd 4.5
+newObjLbd -76.81
+bestObjLbd -76.81
+bestPi [0.75, 0.25, 0.0]
+lbd 4.6
+bestLbd 4.6
+newObjLbd -76.72800000000001
+bestObjLbd -76.72800000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 4.699999999999999
+bestLbd 4.699999999999999
+newObjLbd -76.646
+bestObjLbd -76.646
+bestPi [0.75, 0.25, 0.0]
+lbd 4.799999999999999
+bestLbd 4.799999999999999
+newObjLbd -76.56400000000001
+bestObjLbd -76.56400000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 4.899999999999999
+bestLbd 4.899999999999999
+newObjLbd -76.482
+bestObjLbd -76.482
+bestPi [0.75, 0.25, 0.0]
+lbd 4.999999999999998
+bestLbd 4.999999999999998
+newObjLbd -76.4
+bestObjLbd -76.4
+bestPi [0.75, 0.25, 0.0]
+lbd 5.099999999999998
+bestLbd 5.099999999999998
+newObjLbd -76.318
+bestObjLbd -76.318
+bestPi [0.75, 0.25, 0.0]
+lbd 5.1999999999999975
+bestLbd 5.1999999999999975
+newObjLbd -76.23599999999999
+bestObjLbd -76.23599999999999
+bestPi [0.75, 0.25, 0.0]
+lbd 5.299999999999997
+bestLbd 5.299999999999997
+newObjLbd -76.15400000000001
+bestObjLbd -76.15400000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 5.399999999999997
+bestLbd 5.399999999999997
+newObjLbd -76.072
+bestObjLbd -76.072
+bestPi [0.75, 0.25, 0.0]
+lbd 5.4999999999999964
+bestLbd 5.4999999999999964
+newObjLbd -75.99
+bestObjLbd -75.99
+bestPi [0.75, 0.25, 0.0]
+lbd 5.599999999999996
+bestLbd 5.599999999999996
+newObjLbd -75.908
+bestObjLbd -75.908
+bestPi [0.75, 0.25, 0.0]
+lbd 5.699999999999996
+bestLbd 5.699999999999996
+newObjLbd -75.82600000000001
+bestObjLbd -75.82600000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 5.799999999999995
+bestLbd 5.799999999999995
+newObjLbd -75.744
+bestObjLbd -75.744
+bestPi [0.75, 0.25, 0.0]
+lbd 5.899999999999995
+bestLbd 5.899999999999995
+newObjLbd -75.662
+bestObjLbd -75.662
+bestPi [0.75, 0.25, 0.0]
+lbd 5.999999999999995
+bestLbd 5.999999999999995
+newObjLbd -75.58000000000001
+bestObjLbd -75.58000000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 6.099999999999994
+bestLbd 6.099999999999994
+newObjLbd -75.49799999999999
+bestObjLbd -75.49799999999999
+bestPi [0.75, 0.25, 0.0]
+lbd 6.199999999999994
+bestLbd 6.199999999999994
+newObjLbd -75.41600000000001
+bestObjLbd -75.41600000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 6.299999999999994
+bestLbd 6.299999999999994
+newObjLbd -75.334
+bestObjLbd -75.334
+bestPi [0.75, 0.25, 0.0]
+lbd 6.399999999999993
+bestLbd 6.399999999999993
+newObjLbd -75.25200000000001
+bestObjLbd -75.25200000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 6.499999999999993
+bestLbd 6.499999999999993
+newObjLbd -75.17
+bestObjLbd -75.17
+bestPi [0.75, 0.25, 0.0]
+lbd 6.5999999999999925
+bestLbd 6.5999999999999925
+newObjLbd -75.08800000000001
+bestObjLbd -75.08800000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 6.699999999999992
+bestLbd 6.699999999999992
+newObjLbd -75.00600000000001
+bestObjLbd -75.00600000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 6.799999999999992
+bestLbd 6.799999999999992
+newObjLbd -74.924
+bestObjLbd -74.924
+bestPi [0.75, 0.25, 0.0]
+lbd 6.8999999999999915
+bestLbd 6.8999999999999915
+newObjLbd -74.84200000000001
+bestObjLbd -74.84200000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 6.999999999999991
+bestLbd 6.999999999999991
+newObjLbd -74.76000000000002
+bestObjLbd -74.76000000000002
+bestPi [0.75, 0.25, 0.0]
+lbd 7.099999999999991
+bestLbd 7.099999999999991
+newObjLbd -74.67800000000001
+bestObjLbd -74.67800000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 7.19999999999999
+bestLbd 7.19999999999999
+newObjLbd -74.596
+bestObjLbd -74.596
+bestPi [0.75, 0.25, 0.0]
+lbd 7.29999999999999
+bestLbd 7.29999999999999
+newObjLbd -74.51400000000001
+bestObjLbd -74.51400000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 7.39999999999999
+bestLbd 7.39999999999999
+newObjLbd -74.432
+bestObjLbd -74.432
+bestPi [0.75, 0.25, 0.0]
+lbd 7.499999999999989
+bestLbd 7.499999999999989
+newObjLbd -74.35000000000001
+bestObjLbd -74.35000000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 7.599999999999989
+bestLbd 7.599999999999989
+newObjLbd -74.26800000000001
+bestObjLbd -74.26800000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 7.699999999999989
+bestLbd 7.699999999999989
+newObjLbd -74.186
+bestObjLbd -74.186
+bestPi [0.75, 0.25, 0.0]
+lbd 7.799999999999988
+bestLbd 7.799999999999988
+newObjLbd -74.10400000000001
+bestObjLbd -74.10400000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 7.899999999999988
+bestLbd 7.899999999999988
+newObjLbd -74.02200000000002
+bestObjLbd -74.02200000000002
+bestPi [0.75, 0.25, 0.0]
+lbd 7.999999999999988
+bestLbd 7.999999999999988
+newObjLbd -73.94000000000003
+bestObjLbd -73.94000000000003
+bestPi [0.75, 0.25, 0.0]
+lbd 8.099999999999987
+bestLbd 8.099999999999987
+newObjLbd -73.858
+bestObjLbd -73.858
+bestPi [0.75, 0.25, 0.0]
+lbd 8.199999999999987
+bestLbd 8.199999999999987
+newObjLbd -73.77600000000001
+bestObjLbd -73.77600000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 8.299999999999986
+bestLbd 8.299999999999986
+newObjLbd -73.69400000000002
+bestObjLbd -73.69400000000002
+bestPi [0.75, 0.25, 0.0]
+lbd 8.399999999999986
+bestLbd 8.399999999999986
+newObjLbd -73.61200000000002
+bestObjLbd -73.61200000000002
+bestPi [0.75, 0.25, 0.0]
+lbd 8.499999999999986
+bestLbd 8.499999999999986
+newObjLbd -73.53000000000002
+bestObjLbd -73.53000000000002
+bestPi [0.75, 0.25, 0.0]
+lbd 8.599999999999985
+bestLbd 8.599999999999985
+newObjLbd -73.44800000000001
+bestObjLbd -73.44800000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 8.699999999999985
+bestLbd 8.699999999999985
+newObjLbd -73.36600000000001
+bestObjLbd -73.36600000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 8.799999999999985
+bestLbd 8.799999999999985
+newObjLbd -73.28400000000002
+bestObjLbd -73.28400000000002
+bestPi [0.75, 0.25, 0.0]
+lbd 8.899999999999984
+bestLbd 8.899999999999984
+newObjLbd -73.20200000000003
+bestObjLbd -73.20200000000003
+bestPi [0.75, 0.25, 0.0]
+lbd 8.999999999999984
+bestLbd 8.999999999999984
+newObjLbd -73.12
+bestObjLbd -73.12
+bestPi [0.75, 0.25, 0.0]
+lbd 9.099999999999984
+bestLbd 9.099999999999984
+newObjLbd -73.03800000000001
+bestObjLbd -73.03800000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 9.199999999999983
+bestLbd 9.199999999999983
+newObjLbd -72.96750000000002
+bestObjLbd -72.96750000000002
+bestPi [0.75, 0.25, 0.0]
+lbd 9.299999999999983
+bestLbd 9.299999999999983
+newObjLbd -72.90083333333334
+bestObjLbd -72.90083333333334
+bestPi [0.75, 0.25, 0.0]
+lbd 9.399999999999983
+bestLbd 9.399999999999983
+newObjLbd -72.84166666666667
+bestObjLbd -72.84166666666667
+bestPi [0.75, 0.25, 0.0]
+lbd 9.499999999999982
+bestLbd 9.499999999999982
+newObjLbd -72.805
+bestObjLbd -72.805
+bestPi [0.75, 0.25, 0.0]
+lbd 9.599999999999982
+bestLbd 9.599999999999982
+newObjLbd -72.76833333333335
+bestObjLbd -72.76833333333335
+bestPi [0.75, 0.25, 0.0]
+lbd 9.699999999999982
+bestLbd 9.599999999999982
+newObjLbd -72.78666666666665
+bestObjLbd -72.76833333333335
+bestPi [0.75, 0.25, 0.0]
+lbd 9.799999999999981
+bestLbd 9.599999999999982
+newObjLbd -72.82333333333332
+bestObjLbd -72.76833333333335
+bestPi [0.75, 0.25, 0.0]
+lbd 9.89999999999998
+bestLbd 9.599999999999982
+newObjLbd -72.87999999999997
+bestObjLbd -72.76833333333335
+bestPi [0.5, 0.5, 0.0]
+lbd 9.99999999999998
+bestLbd 9.599999999999982
+newObjLbd -72.80000000000001
+bestObjLbd -72.76833333333335
+bestPi [0.5, 0.5, 0.0]
+bestObjLbd -72.76833333333335
+bestPi [0.5, 0.5, 0.0]
+bestLbd 9.599999999999982
+t= 0
+s= 2
+lbd -0.1
+bestLbd -0.1
+newObjLbd -9999
+bestObjLbd -9999
+bestPi [1.0, 0.0, 0.0]
+lbd 0.0
+bestLbd 0.0
+newObjLbd -80.0
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.1
+bestLbd 0.0
+newObjLbd -80.13
+bestObjLbd -80.0
+bestPi [0.75, 0.25, 0.0]
+lbd 0.2
+bestLbd 0.0
+newObjLbd -80.246
+bestObjLbd -80.0
+bestPi [0.75, 0.25, 0.0]
+lbd 0.30000000000000004
+bestLbd 0.30000000000000004
+newObjLbd -79.994
+bestObjLbd -79.994
+bestPi [0.75, 0.25, 0.0]
+lbd 0.4
+bestLbd 0.4
+newObjLbd -79.742
+bestObjLbd -79.742
+bestPi [0.75, 0.25, 0.0]
+lbd 0.5
+bestLbd 0.5
+newObjLbd -79.49
+bestObjLbd -79.49
+bestPi [0.75, 0.25, 0.0]
+lbd 0.6
+bestLbd 0.6
+newObjLbd -79.238
+bestObjLbd -79.238
+bestPi [0.75, 0.25, 0.0]
+lbd 0.7
+bestLbd 0.7
+newObjLbd -78.986
+bestObjLbd -78.986
+bestPi [0.75, 0.25, 0.0]
+lbd 0.7999999999999999
+bestLbd 0.7999999999999999
+newObjLbd -78.73400000000001
+bestObjLbd -78.73400000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 0.8999999999999999
+bestLbd 0.8999999999999999
+newObjLbd -78.482
+bestObjLbd -78.482
+bestPi [0.75, 0.25, 0.0]
+lbd 0.9999999999999999
+bestLbd 0.9999999999999999
+newObjLbd -78.23
+bestObjLbd -78.23
+bestPi [0.75, 0.25, 0.0]
+lbd 1.0999999999999999
+bestLbd 1.0999999999999999
+newObjLbd -77.978
+bestObjLbd -77.978
+bestPi [0.75, 0.25, 0.0]
+lbd 1.2
+bestLbd 1.2
+newObjLbd -77.72599999999998
+bestObjLbd -77.72599999999998
+bestPi [0.75, 0.25, 0.0]
+lbd 1.3
+bestLbd 1.3
+newObjLbd -77.474
+bestObjLbd -77.474
+bestPi [0.75, 0.25, 0.0]
+lbd 1.4000000000000001
+bestLbd 1.4000000000000001
+newObjLbd -77.222
+bestObjLbd -77.222
+bestPi [0.75, 0.25, 0.0]
+lbd 1.5000000000000002
+bestLbd 1.5000000000000002
+newObjLbd -76.96999999999998
+bestObjLbd -76.96999999999998
+bestPi [0.75, 0.25, 0.0]
+lbd 1.6000000000000003
+bestLbd 1.6000000000000003
+newObjLbd -76.71799999999999
+bestObjLbd -76.71799999999999
+bestPi [0.75, 0.25, 0.0]
+lbd 1.7000000000000004
+bestLbd 1.7000000000000004
+newObjLbd -76.46600000000001
+bestObjLbd -76.46600000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 1.8000000000000005
+bestLbd 1.8000000000000005
+newObjLbd -76.21400000000001
+bestObjLbd -76.21400000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 1.9000000000000006
+bestLbd 1.9000000000000006
+newObjLbd -75.962
+bestObjLbd -75.962
+bestPi [0.75, 0.25, 0.0]
+lbd 2.0000000000000004
+bestLbd 2.0000000000000004
+newObjLbd -75.71
+bestObjLbd -75.71
+bestPi [0.75, 0.25, 0.0]
+lbd 2.1000000000000005
+bestLbd 2.1000000000000005
+newObjLbd -75.458
+bestObjLbd -75.458
+bestPi [0.75, 0.25, 0.0]
+lbd 2.2000000000000006
+bestLbd 2.2000000000000006
+newObjLbd -75.20599999999999
+bestObjLbd -75.20599999999999
+bestPi [0.75, 0.25, 0.0]
+lbd 2.3000000000000007
+bestLbd 2.3000000000000007
+newObjLbd -74.954
+bestObjLbd -74.954
+bestPi [0.75, 0.25, 0.0]
+lbd 2.400000000000001
+bestLbd 2.400000000000001
+newObjLbd -74.702
+bestObjLbd -74.702
+bestPi [0.75, 0.25, 0.0]
+lbd 2.500000000000001
+bestLbd 2.500000000000001
+newObjLbd -74.45
+bestObjLbd -74.45
+bestPi [0.75, 0.25, 0.0]
+lbd 2.600000000000001
+bestLbd 2.600000000000001
+newObjLbd -74.198
+bestObjLbd -74.198
+bestPi [0.75, 0.25, 0.0]
+lbd 2.700000000000001
+bestLbd 2.700000000000001
+newObjLbd -73.946
+bestObjLbd -73.946
+bestPi [0.75, 0.25, 0.0]
+lbd 2.800000000000001
+bestLbd 2.800000000000001
+newObjLbd -73.694
+bestObjLbd -73.694
+bestPi [0.75, 0.25, 0.0]
+lbd 2.9000000000000012
+bestLbd 2.9000000000000012
+newObjLbd -73.442
+bestObjLbd -73.442
+bestPi [0.75, 0.25, 0.0]
+lbd 3.0000000000000013
+bestLbd 3.0000000000000013
+newObjLbd -73.18999999999998
+bestObjLbd -73.18999999999998
+bestPi [0.75, 0.25, 0.0]
+lbd 3.1000000000000014
+bestLbd 3.1000000000000014
+newObjLbd -72.938
+bestObjLbd -72.938
+bestPi [0.75, 0.25, 0.0]
+lbd 3.2000000000000015
+bestLbd 3.2000000000000015
+newObjLbd -72.68599999999999
+bestObjLbd -72.68599999999999
+bestPi [0.75, 0.25, 0.0]
+lbd 3.3000000000000016
+bestLbd 3.3000000000000016
+newObjLbd -72.434
+bestObjLbd -72.434
+bestPi [0.75, 0.25, 0.0]
+lbd 3.4000000000000017
+bestLbd 3.4000000000000017
+newObjLbd -72.182
+bestObjLbd -72.182
+bestPi [0.75, 0.25, 0.0]
+lbd 3.5000000000000018
+bestLbd 3.5000000000000018
+newObjLbd -71.92999999999999
+bestObjLbd -71.92999999999999
+bestPi [0.75, 0.25, 0.0]
+lbd 3.600000000000002
+bestLbd 3.600000000000002
+newObjLbd -71.678
+bestObjLbd -71.678
+bestPi [0.75, 0.25, 0.0]
+lbd 3.700000000000002
+bestLbd 3.700000000000002
+newObjLbd -71.43366666666667
+bestObjLbd -71.43366666666667
+bestPi [0.75, 0.25, 0.0]
+lbd 3.800000000000002
+bestLbd 3.800000000000002
+newObjLbd -71.21199999999999
+bestObjLbd -71.21199999999999
+bestPi [0.75, 0.25, 0.0]
+lbd 3.900000000000002
+bestLbd 3.900000000000002
+newObjLbd -71.04199999999999
+bestObjLbd -71.04199999999999
+bestPi [0.75, 0.25, 0.0]
+lbd 4.000000000000002
+bestLbd 4.000000000000002
+newObjLbd -70.94866666666667
+bestObjLbd -70.94866666666667
+bestPi [0.75, 0.25, 0.0]
+lbd 4.100000000000001
+bestLbd 4.100000000000001
+newObjLbd -70.89533333333333
+bestObjLbd -70.89533333333333
+bestPi [0.75, 0.25, 0.0]
+lbd 4.200000000000001
+bestLbd 4.200000000000001
+newObjLbd -70.842
+bestObjLbd -70.842
+bestPi [0.5, 0.5, 0.0]
+lbd 4.300000000000001
+bestLbd 4.300000000000001
+newObjLbd -70.66399999999999
+bestObjLbd -70.66399999999999
+bestPi [0.5, 0.5, 0.0]
+lbd 4.4
+bestLbd 4.4
+newObjLbd -70.41199999999999
+bestObjLbd -70.41199999999999
+bestPi [0.5, 0.5, 0.0]
+lbd 4.5
+bestLbd 4.5
+newObjLbd -70.16
+bestObjLbd -70.16
+bestPi [0.5, 0.5, 0.0]
+lbd 4.6
+bestLbd 4.6
+newObjLbd -69.908
+bestObjLbd -69.908
+bestPi [0.5, 0.5, 0.0]
+lbd 4.699999999999999
+bestLbd 4.699999999999999
+newObjLbd -69.656
+bestObjLbd -69.656
+bestPi [0.5, 0.5, 0.0]
+lbd 4.799999999999999
+bestLbd 4.799999999999999
+newObjLbd -69.404
+bestObjLbd -69.404
+bestPi [0.5, 0.5, 0.0]
+lbd 4.899999999999999
+bestLbd 4.899999999999999
+newObjLbd -69.152
+bestObjLbd -69.152
+bestPi [0.5, 0.5, 0.0]
+lbd 4.999999999999998
+bestLbd 4.999999999999998
+newObjLbd -68.9
+bestObjLbd -68.9
+bestPi [0.5, 0.5, 0.0]
+lbd 5.099999999999998
+bestLbd 5.099999999999998
+newObjLbd -68.64800000000001
+bestObjLbd -68.64800000000001
+bestPi [0.5, 0.5, 0.0]
+lbd 5.1999999999999975
+bestLbd 5.1999999999999975
+newObjLbd -68.396
+bestObjLbd -68.396
+bestPi [0.5, 0.5, 0.0]
+lbd 5.299999999999997
+bestLbd 5.299999999999997
+newObjLbd -68.144
+bestObjLbd -68.144
+bestPi [0.5, 0.5, 0.0]
+lbd 5.399999999999997
+bestLbd 5.399999999999997
+newObjLbd -67.892
+bestObjLbd -67.892
+bestPi [0.5, 0.5, 0.0]
+lbd 5.4999999999999964
+bestLbd 5.4999999999999964
+newObjLbd -67.64000000000001
+bestObjLbd -67.64000000000001
+bestPi [0.5, 0.5, 0.0]
+lbd 5.599999999999996
+bestLbd 5.599999999999996
+newObjLbd -67.388
+bestObjLbd -67.388
+bestPi [0.5, 0.5, 0.0]
+lbd 5.699999999999996
+bestLbd 5.699999999999996
+newObjLbd -67.13600000000001
+bestObjLbd -67.13600000000001
+bestPi [0.5, 0.5, 0.0]
+lbd 5.799999999999995
+bestLbd 5.799999999999995
+newObjLbd -66.884
+bestObjLbd -66.884
+bestPi [0.5, 0.5, 0.0]
+lbd 5.899999999999995
+bestLbd 5.899999999999995
+newObjLbd -66.63200000000002
+bestObjLbd -66.63200000000002
+bestPi [0.5, 0.5, 0.0]
+lbd 5.999999999999995
+bestLbd 5.999999999999995
+newObjLbd -66.38000000000001
+bestObjLbd -66.38000000000001
+bestPi [0.5, 0.5, 0.0]
+lbd 6.099999999999994
+bestLbd 6.099999999999994
+newObjLbd -66.12800000000001
+bestObjLbd -66.12800000000001
+bestPi [0.5, 0.5, 0.0]
+lbd 6.199999999999994
+bestLbd 6.199999999999994
+newObjLbd -65.876
+bestObjLbd -65.876
+bestPi [0.5, 0.5, 0.0]
+lbd 6.299999999999994
+bestLbd 6.299999999999994
+newObjLbd -65.62400000000002
+bestObjLbd -65.62400000000002
+bestPi [0.5, 0.5, 0.0]
+lbd 6.399999999999993
+bestLbd 6.399999999999993
+newObjLbd -65.37200000000001
+bestObjLbd -65.37200000000001
+bestPi [0.5, 0.5, 0.0]
+lbd 6.499999999999993
+bestLbd 6.499999999999993
+newObjLbd -65.12000000000002
+bestObjLbd -65.12000000000002
+bestPi [0.5, 0.5, 0.0]
+lbd 6.5999999999999925
+bestLbd 6.5999999999999925
+newObjLbd -64.86800000000002
+bestObjLbd -64.86800000000002
+bestPi [0.5, 0.5, 0.0]
+lbd 6.699999999999992
+bestLbd 6.699999999999992
+newObjLbd -64.61600000000001
+bestObjLbd -64.61600000000001
+bestPi [0.5, 0.5, 0.0]
+lbd 6.799999999999992
+bestLbd 6.799999999999992
+newObjLbd -64.36400000000003
+bestObjLbd -64.36400000000003
+bestPi [0.5, 0.5, 0.0]
+lbd 6.8999999999999915
+bestLbd 6.8999999999999915
+newObjLbd -64.11200000000002
+bestObjLbd -64.11200000000002
+bestPi [0.5, 0.5, 0.0]
+lbd 6.999999999999991
+bestLbd 6.999999999999991
+newObjLbd -63.86000000000002
+bestObjLbd -63.86000000000002
+bestPi [0.5, 0.5, 0.0]
+lbd 7.099999999999991
+bestLbd 7.099999999999991
+newObjLbd -63.60800000000002
+bestObjLbd -63.60800000000002
+bestPi [0.5, 0.5, 0.0]
+lbd 7.19999999999999
+bestLbd 7.19999999999999
+newObjLbd -63.35600000000002
+bestObjLbd -63.35600000000002
+bestPi [0.5, 0.5, 0.0]
+lbd 7.29999999999999
+bestLbd 7.29999999999999
+newObjLbd -63.10400000000003
+bestObjLbd -63.10400000000003
+bestPi [0.5, 0.5, 0.0]
+lbd 7.39999999999999
+bestLbd 7.39999999999999
+newObjLbd -62.867333333333356
+bestObjLbd -62.867333333333356
+bestPi [0.5, 0.5, 0.0]
+lbd 7.499999999999989
+bestLbd 7.499999999999989
+newObjLbd -62.630666666666684
+bestObjLbd -62.630666666666684
+bestPi [0.5, 0.5, 0.0]
+lbd 7.599999999999989
+bestLbd 7.599999999999989
+newObjLbd -62.42400000000003
+bestObjLbd -62.42400000000003
+bestPi [0.5, 0.5, 0.0]
+lbd 7.699999999999989
+bestLbd 7.699999999999989
+newObjLbd -62.21733333333335
+bestObjLbd -62.21733333333335
+bestPi [0.45, 0.55, 0.0]
+lbd 7.799999999999988
+bestLbd 7.799999999999988
+newObjLbd -61.994000000000035
+bestObjLbd -61.994000000000035
+bestPi [0.45, 0.55, 0.0]
+lbd 7.899999999999988
+bestLbd 7.899999999999988
+newObjLbd -61.74200000000005
+bestObjLbd -61.74200000000005
+bestPi [0.45, 0.55, 0.0]
+lbd 7.999999999999988
+bestLbd 7.999999999999988
+newObjLbd -61.49000000000004
+bestObjLbd -61.49000000000004
+bestPi [0.45, 0.55, 0.0]
+lbd 8.099999999999987
+bestLbd 8.099999999999987
+newObjLbd -61.24873333333336
+bestObjLbd -61.24873333333336
+bestPi [0.45, 0.55, 0.0]
+lbd 8.199999999999987
+bestLbd 8.199999999999987
+newObjLbd -61.0120666666667
+bestObjLbd -61.0120666666667
+bestPi [0.45, 0.55, 0.0]
+lbd 8.299999999999986
+bestLbd 8.299999999999986
+newObjLbd -60.790400000000034
+bestObjLbd -60.790400000000034
+bestPi [0.45, 0.55, 0.0]
+lbd 8.399999999999986
+bestLbd 8.399999999999986
+newObjLbd -60.58373333333336
+bestObjLbd -60.58373333333336
+bestPi [0.45, 0.55, 0.0]
+lbd 8.499999999999986
+bestLbd 8.499999999999986
+newObjLbd -60.399066666666684
+bestObjLbd -60.399066666666684
+bestPi [0.45, 0.55, 0.0]
+lbd 8.599999999999985
+bestLbd 8.599999999999985
+newObjLbd -60.26573333333335
+bestObjLbd -60.26573333333335
+bestPi [0.45, 0.55, 0.0]
+lbd 8.699999999999985
+bestLbd 8.699999999999985
+newObjLbd -60.1404
+bestObjLbd -60.1404
+bestPi [0.25, 0.75, 0.0]
+lbd 8.799999999999985
+bestLbd 8.799999999999985
+newObjLbd -60.07400000000004
+bestObjLbd -60.07400000000004
+bestPi [0.25, 0.75, 0.0]
+lbd 8.899999999999984
+bestLbd 8.899999999999984
+newObjLbd -59.82200000000004
+bestObjLbd -59.82200000000004
+bestPi [0.25, 0.75, 0.0]
+lbd 8.999999999999984
+bestLbd 8.999999999999984
+newObjLbd -59.570000000000036
+bestObjLbd -59.570000000000036
+bestPi [0.25, 0.75, 0.0]
+lbd 9.099999999999984
+bestLbd 9.099999999999984
+newObjLbd -59.31800000000004
+bestObjLbd -59.31800000000004
+bestPi [0.25, 0.75, 0.0]
+lbd 9.199999999999983
+bestLbd 9.199999999999983
+newObjLbd -59.14350000000003
+bestObjLbd -59.14350000000003
+bestPi [0.25, 0.75, 0.0]
+lbd 9.299999999999983
+bestLbd 9.299999999999983
+newObjLbd -58.99483333333336
+bestObjLbd -58.99483333333336
+bestPi [0.25, 0.75, 0.0]
+lbd 9.399999999999983
+bestLbd 9.399999999999983
+newObjLbd -58.862833333333356
+bestObjLbd -58.862833333333356
+bestPi [0.25, 0.75, 0.0]
+lbd 9.499999999999982
+bestLbd 9.499999999999982
+newObjLbd -58.78083333333335
+bestObjLbd -58.78083333333335
+bestPi [0.25, 0.75, 0.0]
+lbd 9.599999999999982
+bestLbd 9.599999999999982
+newObjLbd -58.698833333333354
+bestObjLbd -58.698833333333354
+bestPi [0.25, 0.75, 0.0]
+lbd 9.699999999999982
+bestLbd 9.699999999999982
+newObjLbd -58.61683333333335
+bestObjLbd -58.61683333333335
+bestPi [0.4, 0.55, 0.04999999999999993]
+lbd 9.799999999999981
+bestLbd 9.799999999999981
+newObjLbd -58.45400000000004
+bestObjLbd -58.45400000000004
+bestPi [0.4, 0.55, 0.04999999999999993]
+lbd 9.89999999999998
+bestLbd 9.89999999999998
+newObjLbd -58.20890000000004
+bestObjLbd -58.20890000000004
+bestPi [0.4, 0.55, 0.04999999999999993]
+lbd 9.99999999999998
+bestLbd 9.99999999999998
+newObjLbd -57.97223333333338
+bestObjLbd -57.97223333333338
+bestPi [0.4, 0.55, 0.04999999999999993]
+bestObjLbd -57.97223333333338
+bestPi [0.4, 0.55, 0.04999999999999993]
+bestLbd 9.99999999999998
+t= 0
+s= 3
+lbd -0.1
+bestLbd -0.1
+newObjLbd -9999
+bestObjLbd -9999
+bestPi [1.0, 0.0, 0.0]
+lbd 0.0
+bestLbd 0.0
+newObjLbd -80.0
+bestObjLbd -80.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.1
+bestLbd 0.0
+newObjLbd -80.17333333333333
+bestObjLbd -80.0
+bestPi [0.75, 0.25, 0.0]
+lbd 0.2
+bestLbd 0.0
+newObjLbd -80.24266666666666
+bestObjLbd -80.0
+bestPi [0.75, 0.25, 0.0]
+lbd 0.30000000000000004
+bestLbd 0.30000000000000004
+newObjLbd -79.864
+bestObjLbd -79.864
+bestPi [0.75, 0.25, 0.0]
+lbd 0.4
+bestLbd 0.4
+newObjLbd -79.48533333333333
+bestObjLbd -79.48533333333333
+bestPi [0.75, 0.25, 0.0]
+lbd 0.5
+bestLbd 0.5
+newObjLbd -79.10666666666667
+bestObjLbd -79.10666666666667
+bestPi [0.75, 0.25, 0.0]
+lbd 0.6
+bestLbd 0.6
+newObjLbd -78.728
+bestObjLbd -78.728
+bestPi [0.75, 0.25, 0.0]
+lbd 0.7
+bestLbd 0.7
+newObjLbd -78.34933333333332
+bestObjLbd -78.34933333333332
+bestPi [0.75, 0.25, 0.0]
+lbd 0.7999999999999999
+bestLbd 0.7999999999999999
+newObjLbd -77.97066666666667
+bestObjLbd -77.97066666666667
+bestPi [0.75, 0.25, 0.0]
+lbd 0.8999999999999999
+bestLbd 0.8999999999999999
+newObjLbd -77.59200000000001
+bestObjLbd -77.59200000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 0.9999999999999999
+bestLbd 0.9999999999999999
+newObjLbd -77.21333333333332
+bestObjLbd -77.21333333333332
+bestPi [0.75, 0.25, 0.0]
+lbd 1.0999999999999999
+bestLbd 1.0999999999999999
+newObjLbd -76.83466666666666
+bestObjLbd -76.83466666666666
+bestPi [0.75, 0.25, 0.0]
+lbd 1.2
+bestLbd 1.2
+newObjLbd -76.45599999999999
+bestObjLbd -76.45599999999999
+bestPi [0.75, 0.25, 0.0]
+lbd 1.3
+bestLbd 1.3
+newObjLbd -76.07733333333336
+bestObjLbd -76.07733333333336
+bestPi [0.75, 0.25, 0.0]
+lbd 1.4000000000000001
+bestLbd 1.4000000000000001
+newObjLbd -75.69866666666667
+bestObjLbd -75.69866666666667
+bestPi [0.75, 0.25, 0.0]
+lbd 1.5000000000000002
+bestLbd 1.5000000000000002
+newObjLbd -75.32000000000001
+bestObjLbd -75.32000000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 1.6000000000000003
+bestLbd 1.6000000000000003
+newObjLbd -74.94133333333332
+bestObjLbd -74.94133333333332
+bestPi [0.75, 0.25, 0.0]
+lbd 1.7000000000000004
+bestLbd 1.7000000000000004
+newObjLbd -74.56266666666667
+bestObjLbd -74.56266666666667
+bestPi [0.75, 0.25, 0.0]
+lbd 1.8000000000000005
+bestLbd 1.8000000000000005
+newObjLbd -74.184
+bestObjLbd -74.184
+bestPi [0.75, 0.25, 0.0]
+lbd 1.9000000000000006
+bestLbd 1.9000000000000006
+newObjLbd -73.80533333333334
+bestObjLbd -73.80533333333334
+bestPi [0.75, 0.25, 0.0]
+lbd 2.0000000000000004
+bestLbd 2.0000000000000004
+newObjLbd -73.42666666666666
+bestObjLbd -73.42666666666666
+bestPi [0.75, 0.25, 0.0]
+lbd 2.1000000000000005
+bestLbd 2.1000000000000005
+newObjLbd -73.04799999999999
+bestObjLbd -73.04799999999999
+bestPi [0.75, 0.25, 0.0]
+lbd 2.2000000000000006
+bestLbd 2.2000000000000006
+newObjLbd -72.66933333333333
+bestObjLbd -72.66933333333333
+bestPi [0.75, 0.25, 0.0]
+lbd 2.3000000000000007
+bestLbd 2.3000000000000007
+newObjLbd -72.29066666666667
+bestObjLbd -72.29066666666667
+bestPi [0.75, 0.25, 0.0]
+lbd 2.400000000000001
+bestLbd 2.400000000000001
+newObjLbd -71.91199999999999
+bestObjLbd -71.91199999999999
+bestPi [0.75, 0.25, 0.0]
+lbd 2.500000000000001
+bestLbd 2.500000000000001
+newObjLbd -71.53333333333333
+bestObjLbd -71.53333333333333
+bestPi [0.75, 0.25, 0.0]
+lbd 2.600000000000001
+bestLbd 2.600000000000001
+newObjLbd -71.15466666666666
+bestObjLbd -71.15466666666666
+bestPi [0.75, 0.25, 0.0]
+lbd 2.700000000000001
+bestLbd 2.700000000000001
+newObjLbd -70.776
+bestObjLbd -70.776
+bestPi [0.75, 0.25, 0.0]
+lbd 2.800000000000001
+bestLbd 2.800000000000001
+newObjLbd -70.42774999999999
+bestObjLbd -70.42774999999999
+bestPi [0.75, 0.25, 0.0]
+lbd 2.9000000000000012
+bestLbd 2.9000000000000012
+newObjLbd -70.19941666666666
+bestObjLbd -70.19941666666666
+bestPi [0.75, 0.25, 0.0]
+lbd 3.0000000000000013
+bestLbd 3.0000000000000013
+newObjLbd -70.15275
+bestObjLbd -70.15275
+bestPi [0.75, 0.25, 0.0]
+lbd 3.1000000000000014
+bestLbd 3.0000000000000013
+newObjLbd -70.15608333333333
+bestObjLbd -70.15275
+bestPi [0.5, 0.5, 0.0]
+lbd 3.2000000000000015
+bestLbd 3.2000000000000015
+newObjLbd -69.88266666666665
+bestObjLbd -69.88266666666665
+bestPi [0.5, 0.5, 0.0]
+lbd 3.3000000000000016
+bestLbd 3.3000000000000016
+newObjLbd -69.50399999999999
+bestObjLbd -69.50399999999999
+bestPi [0.5, 0.5, 0.0]
+lbd 3.4000000000000017
+bestLbd 3.4000000000000017
+newObjLbd -69.12533333333333
+bestObjLbd -69.12533333333333
+bestPi [0.5, 0.5, 0.0]
+lbd 3.5000000000000018
+bestLbd 3.5000000000000018
+newObjLbd -68.74666666666666
+bestObjLbd -68.74666666666666
+bestPi [0.5, 0.5, 0.0]
+lbd 3.600000000000002
+bestLbd 3.600000000000002
+newObjLbd -68.368
+bestObjLbd -68.368
+bestPi [0.5, 0.5, 0.0]
+lbd 3.700000000000002
+bestLbd 3.700000000000002
+newObjLbd -67.98933333333332
+bestObjLbd -67.98933333333332
+bestPi [0.5, 0.5, 0.0]
+lbd 3.800000000000002
+bestLbd 3.800000000000002
+newObjLbd -67.61066666666665
+bestObjLbd -67.61066666666665
+bestPi [0.5, 0.5, 0.0]
+lbd 3.900000000000002
+bestLbd 3.900000000000002
+newObjLbd -67.232
+bestObjLbd -67.232
+bestPi [0.5, 0.5, 0.0]
+lbd 4.000000000000002
+bestLbd 4.000000000000002
+newObjLbd -66.85333333333332
+bestObjLbd -66.85333333333332
+bestPi [0.5, 0.5, 0.0]
+lbd 4.100000000000001
+bestLbd 4.100000000000001
+newObjLbd -66.47466666666666
+bestObjLbd -66.47466666666666
+bestPi [0.5, 0.5, 0.0]
+lbd 4.200000000000001
+bestLbd 4.200000000000001
+newObjLbd -66.09599999999999
+bestObjLbd -66.09599999999999
+bestPi [0.5, 0.5, 0.0]
+lbd 4.300000000000001
+bestLbd 4.300000000000001
+newObjLbd -65.71733333333333
+bestObjLbd -65.71733333333333
+bestPi [0.5, 0.5, 0.0]
+lbd 4.4
+bestLbd 4.4
+newObjLbd -65.33866666666667
+bestObjLbd -65.33866666666667
+bestPi [0.5, 0.5, 0.0]
+lbd 4.5
+bestLbd 4.5
+newObjLbd -64.96000000000001
+bestObjLbd -64.96000000000001
+bestPi [0.5, 0.5, 0.0]
+lbd 4.6
+bestLbd 4.6
+newObjLbd -64.58133333333333
+bestObjLbd -64.58133333333333
+bestPi [0.5, 0.5, 0.0]
+lbd 4.699999999999999
+bestLbd 4.699999999999999
+newObjLbd -64.20266666666667
+bestObjLbd -64.20266666666667
+bestPi [0.5, 0.5, 0.0]
+lbd 4.799999999999999
+bestLbd 4.799999999999999
+newObjLbd -63.824000000000005
+bestObjLbd -63.824000000000005
+bestPi [0.5, 0.5, 0.0]
+lbd 4.899999999999999
+bestLbd 4.899999999999999
+newObjLbd -63.44533333333334
+bestObjLbd -63.44533333333334
+bestPi [0.5, 0.5, 0.0]
+lbd 4.999999999999998
+bestLbd 4.999999999999998
+newObjLbd -63.06666666666668
+bestObjLbd -63.06666666666668
+bestPi [0.5, 0.5, 0.0]
+lbd 5.099999999999998
+bestLbd 5.099999999999998
+newObjLbd -62.688
+bestObjLbd -62.688
+bestPi [0.5, 0.5, 0.0]
+lbd 5.1999999999999975
+bestLbd 5.1999999999999975
+newObjLbd -62.30933333333334
+bestObjLbd -62.30933333333334
+bestPi [0.5, 0.5, 0.0]
+lbd 5.299999999999997
+bestLbd 5.299999999999997
+newObjLbd -61.930666666666674
+bestObjLbd -61.930666666666674
+bestPi [0.5, 0.5, 0.0]
+lbd 5.399999999999997
+bestLbd 5.399999999999997
+newObjLbd -61.552000000000014
+bestObjLbd -61.552000000000014
+bestPi [0.5, 0.5, 0.0]
+lbd 5.4999999999999964
+bestLbd 5.4999999999999964
+newObjLbd -61.185500000000005
+bestObjLbd -61.185500000000005
+bestPi [0.5, 0.5, 0.0]
+lbd 5.599999999999996
+bestLbd 5.599999999999996
+newObjLbd -60.85550000000002
+bestObjLbd -60.85550000000002
+bestPi [0.5, 0.5, 0.0]
+lbd 5.699999999999996
+bestLbd 5.699999999999996
+newObjLbd -60.59550000000001
+bestObjLbd -60.59550000000001
+bestPi [0.45, 0.55, 0.0]
+lbd 5.799999999999995
+bestLbd 5.799999999999995
+newObjLbd -60.23733333333335
+bestObjLbd -60.23733333333335
+bestPi [0.45, 0.55, 0.0]
+lbd 5.899999999999995
+bestLbd 5.899999999999995
+newObjLbd -59.85866666666669
+bestObjLbd -59.85866666666669
+bestPi [0.45, 0.55, 0.0]
+lbd 5.999999999999995
+bestLbd 5.999999999999995
+newObjLbd -59.48000000000003
+bestObjLbd -59.48000000000003
+bestPi [0.45, 0.55, 0.0]
+lbd 6.099999999999994
+bestLbd 6.099999999999994
+newObjLbd -59.139050000000026
+bestObjLbd -59.139050000000026
+bestPi [0.45, 0.55, 0.0]
+lbd 6.199999999999994
+bestLbd 6.199999999999994
+newObjLbd -58.820716666666684
+bestObjLbd -58.820716666666684
+bestPi [0.45, 0.55, 0.0]
+lbd 6.299999999999994
+bestLbd 6.299999999999994
+newObjLbd -58.58405000000002
+bestObjLbd -58.58405000000002
+bestPi [0.45, 0.55, 0.0]
+lbd 6.399999999999993
+bestLbd 6.399999999999993
+newObjLbd -58.42338333333335
+bestObjLbd -58.42338333333335
+bestPi [0.45, 0.55, 0.0]
+lbd 6.499999999999993
+bestLbd 6.499999999999993
+newObjLbd -58.34671666666668
+bestObjLbd -58.34671666666668
+bestPi [0.25, 0.75, 0.0]
+lbd 6.5999999999999925
+bestLbd 6.5999999999999925
+newObjLbd -58.00800000000003
+bestObjLbd -58.00800000000003
+bestPi [0.25, 0.75, 0.0]
+lbd 6.699999999999992
+bestLbd 6.699999999999992
+newObjLbd -57.62933333333336
+bestObjLbd -57.62933333333336
+bestPi [0.25, 0.75, 0.0]
+lbd 6.799999999999992
+bestLbd 6.799999999999992
+newObjLbd -57.250666666666696
+bestObjLbd -57.250666666666696
+bestPi [0.25, 0.75, 0.0]
+lbd 6.8999999999999915
+bestLbd 6.8999999999999915
+newObjLbd -56.872000000000035
+bestObjLbd -56.872000000000035
+bestPi [0.25, 0.75, 0.0]
+lbd 6.999999999999991
+bestLbd 6.999999999999991
+newObjLbd -56.49333333333337
+bestObjLbd -56.49333333333337
+bestPi [0.25, 0.75, 0.0]
+lbd 7.099999999999991
+bestLbd 7.099999999999991
+newObjLbd -56.11466666666671
+bestObjLbd -56.11466666666671
+bestPi [0.25, 0.75, 0.0]
+lbd 7.19999999999999
+bestLbd 7.19999999999999
+newObjLbd -55.73600000000003
+bestObjLbd -55.73600000000003
+bestPi [0.25, 0.75, 0.0]
+lbd 7.29999999999999
+bestLbd 7.29999999999999
+newObjLbd -55.35733333333337
+bestObjLbd -55.35733333333337
+bestPi [0.25, 0.75, 0.0]
+lbd 7.39999999999999
+bestLbd 7.39999999999999
+newObjLbd -54.978666666666705
+bestObjLbd -54.978666666666705
+bestPi [0.25, 0.75, 0.0]
+lbd 7.499999999999989
+bestLbd 7.499999999999989
+newObjLbd -54.60000000000004
+bestObjLbd -54.60000000000004
+bestPi [0.25, 0.75, 0.0]
+lbd 7.599999999999989
+bestLbd 7.599999999999989
+newObjLbd -54.22133333333338
+bestObjLbd -54.22133333333338
+bestPi [0.25, 0.75, 0.0]
+lbd 7.699999999999989
+bestLbd 7.699999999999989
+newObjLbd -53.842666666666716
+bestObjLbd -53.842666666666716
+bestPi [0.25, 0.75, 0.0]
+lbd 7.799999999999988
+bestLbd 7.799999999999988
+newObjLbd -53.46400000000004
+bestObjLbd -53.46400000000004
+bestPi [0.25, 0.75, 0.0]
+lbd 7.899999999999988
+bestLbd 7.899999999999988
+newObjLbd -53.08533333333338
+bestObjLbd -53.08533333333338
+bestPi [0.25, 0.75, 0.0]
+lbd 7.999999999999988
+bestLbd 7.999999999999988
+newObjLbd -52.70666666666672
+bestObjLbd -52.70666666666672
+bestPi [0.25, 0.75, 0.0]
+lbd 8.099999999999987
+bestLbd 8.099999999999987
+newObjLbd -52.328000000000046
+bestObjLbd -52.328000000000046
+bestPi [0.25, 0.75, 0.0]
+lbd 8.199999999999987
+bestLbd 8.199999999999987
+newObjLbd -51.949333333333385
+bestObjLbd -51.949333333333385
+bestPi [0.25, 0.75, 0.0]
+lbd 8.299999999999986
+bestLbd 8.299999999999986
+newObjLbd -51.61325000000004
+bestObjLbd -51.61325000000004
+bestPi [0.25, 0.75, 0.0]
+lbd 8.399999999999986
+bestLbd 8.399999999999986
+newObjLbd -51.28325000000004
+bestObjLbd -51.28325000000004
+bestPi [0.25, 0.75, 0.0]
+lbd 8.499999999999986
+bestLbd 8.499999999999986
+newObjLbd -51.01158333333338
+bestObjLbd -51.01158333333338
+bestPi [0.25, 0.75, 0.0]
+lbd 8.599999999999985
+bestLbd 8.599999999999985
+newObjLbd -50.7749166666667
+bestObjLbd -50.7749166666667
+bestPi [0.25, 0.75, 0.0]
+lbd 8.699999999999985
+bestLbd 8.699999999999985
+newObjLbd -50.59825000000001
+bestObjLbd -50.59825000000001
+bestPi [0.25, 0.75, 0.0]
+lbd 8.799999999999985
+bestLbd 8.799999999999985
+newObjLbd -50.52158333333334
+bestObjLbd -50.52158333333334
+bestPi [0.25, 0.75, 0.0]
+lbd 8.899999999999984
+bestLbd 8.899999999999984
+newObjLbd -50.45491666666666
+bestObjLbd -50.45491666666666
+bestPi [0.25, 0.75, 0.0]
+lbd 8.999999999999984
+bestLbd 8.899999999999984
+newObjLbd -50.45824999999999
+bestObjLbd -50.45491666666666
+bestPi [0.25, 0.75, 0.0]
+lbd 9.099999999999984
+bestLbd 8.899999999999984
+newObjLbd -50.46158333333333
+bestObjLbd -50.45491666666666
+bestPi [0.25, 0.75, 0.0]
+lbd 9.199999999999983
+bestLbd 8.899999999999984
+newObjLbd -50.55991666666665
+bestObjLbd -50.45491666666666
+bestPi [0.25, 0.75, 0.0]
+lbd 9.299999999999983
+bestLbd 8.899999999999984
+newObjLbd -50.68991666666665
+bestObjLbd -50.45491666666666
+bestPi [0.25, 0.75, 0.0]
+lbd 9.399999999999983
+bestLbd 8.899999999999984
+newObjLbd -50.81991666666664
+bestObjLbd -50.45491666666666
+bestPi [0.25, 0.75, 0.0]
+lbd 9.499999999999982
+bestLbd 8.899999999999984
+newObjLbd -50.94991666666664
+bestObjLbd -50.45491666666666
+bestPi [0.25, 0.75, 0.0]
+lbd 9.599999999999982
+bestLbd 8.899999999999984
+newObjLbd -51.07991666666665
+bestObjLbd -50.45491666666666
+bestPi [0.25, 0.75, 0.0]
+lbd 9.699999999999982
+bestLbd 8.899999999999984
+newObjLbd -51.20991666666664
+bestObjLbd -50.45491666666666
+bestPi [0.25, 0.75, 0.0]
+lbd 9.799999999999981
+bestLbd 8.899999999999984
+newObjLbd -51.33991666666664
+bestObjLbd -50.45491666666666
+bestPi [0.25, 0.75, 0.0]
+lbd 9.89999999999998
+bestLbd 8.899999999999984
+newObjLbd -51.46991666666664
+bestObjLbd -50.45491666666666
+bestPi [0.25, 0.75, 0.0]
+lbd 9.99999999999998
+bestLbd 8.899999999999984
+newObjLbd -51.599916666666644
+bestObjLbd -50.45491666666666
+bestPi [0.25, 0.75, 0.0]
+bestObjLbd -50.45491666666666
+bestPi [0.25, 0.75, 0.0]
+bestLbd 8.899999999999984
+t= 0
+s= 4
+lbd -0.1
+bestLbd -0.1
+newObjLbd -9999
+bestObjLbd -9999
+bestPi [0.0, 0.0, 1.0]
+lbd 0.0
+bestLbd 0.0
+newObjLbd -130.0
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 0.1
+bestLbd 0.0
+newObjLbd -130.10133333333334
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 0.2
+bestLbd 0.0
+newObjLbd -130.20266666666666
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 0.30000000000000004
+bestLbd 0.0
+newObjLbd -130.304
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 0.4
+bestLbd 0.0
+newObjLbd -130.40533333333332
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 0.5
+bestLbd 0.0
+newObjLbd -130.50666666666666
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 0.6
+bestLbd 0.0
+newObjLbd -130.60800000000003
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 0.7
+bestLbd 0.0
+newObjLbd -130.70933333333332
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 0.7999999999999999
+bestLbd 0.0
+newObjLbd -130.8106666666667
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 0.8999999999999999
+bestLbd 0.0
+newObjLbd -130.91199999999998
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 0.9999999999999999
+bestLbd 0.0
+newObjLbd -131.01333333333335
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 1.0999999999999999
+bestLbd 0.0
+newObjLbd -131.11466666666666
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 1.2
+bestLbd 0.0
+newObjLbd -131.21599999999998
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 1.3
+bestLbd 0.0
+newObjLbd -131.31733333333332
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 1.4000000000000001
+bestLbd 0.0
+newObjLbd -131.41866666666667
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 1.5000000000000002
+bestLbd 0.0
+newObjLbd -131.52
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 1.6000000000000003
+bestLbd 0.0
+newObjLbd -131.62133333333333
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 1.7000000000000004
+bestLbd 0.0
+newObjLbd -131.72266666666667
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 1.8000000000000005
+bestLbd 0.0
+newObjLbd -131.82399999999998
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 1.9000000000000006
+bestLbd 0.0
+newObjLbd -131.92533333333333
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 2.0000000000000004
+bestLbd 0.0
+newObjLbd -132.02666666666667
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 2.1000000000000005
+bestLbd 0.0
+newObjLbd -132.128
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 2.2000000000000006
+bestLbd 0.0
+newObjLbd -132.22933333333333
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 2.3000000000000007
+bestLbd 0.0
+newObjLbd -132.33066666666667
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 2.400000000000001
+bestLbd 0.0
+newObjLbd -132.43200000000002
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 2.500000000000001
+bestLbd 0.0
+newObjLbd -132.53333333333336
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 2.600000000000001
+bestLbd 0.0
+newObjLbd -132.63466666666667
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 2.700000000000001
+bestLbd 0.0
+newObjLbd -132.73600000000002
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 2.800000000000001
+bestLbd 0.0
+newObjLbd -132.83733333333333
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 2.9000000000000012
+bestLbd 0.0
+newObjLbd -132.93866666666668
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 3.0000000000000013
+bestLbd 0.0
+newObjLbd -133.04000000000002
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 3.1000000000000014
+bestLbd 0.0
+newObjLbd -133.14133333333334
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 3.2000000000000015
+bestLbd 0.0
+newObjLbd -133.24266666666668
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 3.3000000000000016
+bestLbd 0.0
+newObjLbd -133.344
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 3.4000000000000017
+bestLbd 0.0
+newObjLbd -133.44533333333334
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 3.5000000000000018
+bestLbd 0.0
+newObjLbd -133.54666666666668
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 3.600000000000002
+bestLbd 0.0
+newObjLbd -133.648
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 3.700000000000002
+bestLbd 0.0
+newObjLbd -133.74933333333334
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 3.800000000000002
+bestLbd 0.0
+newObjLbd -133.85066666666665
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 3.900000000000002
+bestLbd 0.0
+newObjLbd -133.952
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 4.000000000000002
+bestLbd 0.0
+newObjLbd -134.05333333333334
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 4.100000000000001
+bestLbd 0.0
+newObjLbd -134.15466666666666
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 4.200000000000001
+bestLbd 0.0
+newObjLbd -134.256
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 4.300000000000001
+bestLbd 0.0
+newObjLbd -134.35733333333334
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 4.4
+bestLbd 0.0
+newObjLbd -134.45866666666666
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 4.5
+bestLbd 0.0
+newObjLbd -134.56
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 4.6
+bestLbd 0.0
+newObjLbd -134.66133333333335
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 4.699999999999999
+bestLbd 0.0
+newObjLbd -134.76266666666666
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 4.799999999999999
+bestLbd 0.0
+newObjLbd -134.864
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 4.899999999999999
+bestLbd 0.0
+newObjLbd -134.96533333333332
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 4.999999999999998
+bestLbd 0.0
+newObjLbd -135.06666666666666
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 5.099999999999998
+bestLbd 0.0
+newObjLbd -135.168
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 5.1999999999999975
+bestLbd 0.0
+newObjLbd -135.26933333333332
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 5.299999999999997
+bestLbd 0.0
+newObjLbd -135.37066666666666
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 5.399999999999997
+bestLbd 0.0
+newObjLbd -135.47199999999998
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 5.4999999999999964
+bestLbd 0.0
+newObjLbd -135.57333333333332
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 5.599999999999996
+bestLbd 0.0
+newObjLbd -135.67466666666667
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 5.699999999999996
+bestLbd 0.0
+newObjLbd -135.77599999999998
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 5.799999999999995
+bestLbd 0.0
+newObjLbd -135.87733333333333
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 5.899999999999995
+bestLbd 0.0
+newObjLbd -135.97866666666664
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 5.999999999999995
+bestLbd 0.0
+newObjLbd -136.07999999999998
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 6.099999999999994
+bestLbd 0.0
+newObjLbd -136.18133333333333
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 6.199999999999994
+bestLbd 0.0
+newObjLbd -136.28266666666664
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 6.299999999999994
+bestLbd 0.0
+newObjLbd -136.38400000000001
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 6.399999999999993
+bestLbd 0.0
+newObjLbd -136.48533333333333
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 6.499999999999993
+bestLbd 0.0
+newObjLbd -136.58666666666667
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 6.5999999999999925
+bestLbd 0.0
+newObjLbd -136.688
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 6.699999999999992
+bestLbd 0.0
+newObjLbd -136.78933333333333
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 6.799999999999992
+bestLbd 0.0
+newObjLbd -136.89066666666668
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 6.8999999999999915
+bestLbd 0.0
+newObjLbd -136.992
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 6.999999999999991
+bestLbd 0.0
+newObjLbd -137.09333333333333
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 7.099999999999991
+bestLbd 0.0
+newObjLbd -137.19466666666668
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 7.19999999999999
+bestLbd 0.0
+newObjLbd -137.296
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 7.29999999999999
+bestLbd 0.0
+newObjLbd -137.39733333333334
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 7.39999999999999
+bestLbd 0.0
+newObjLbd -137.49866666666665
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 7.499999999999989
+bestLbd 0.0
+newObjLbd -137.6
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 7.599999999999989
+bestLbd 0.0
+newObjLbd -137.7013333333333
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 7.699999999999989
+bestLbd 0.0
+newObjLbd -137.80266666666665
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 7.799999999999988
+bestLbd 0.0
+newObjLbd -137.904
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 7.899999999999988
+bestLbd 0.0
+newObjLbd -138.0053333333333
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 7.999999999999988
+bestLbd 0.0
+newObjLbd -138.10666666666665
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 8.099999999999987
+bestLbd 0.0
+newObjLbd -138.208
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 8.199999999999987
+bestLbd 0.0
+newObjLbd -138.3093333333333
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 8.299999999999986
+bestLbd 0.0
+newObjLbd -138.41066666666666
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 8.399999999999986
+bestLbd 0.0
+newObjLbd -138.512
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 8.499999999999986
+bestLbd 0.0
+newObjLbd -138.61333333333332
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 8.599999999999985
+bestLbd 0.0
+newObjLbd -138.7146666666667
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 8.699999999999985
+bestLbd 0.0
+newObjLbd -138.816
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 8.799999999999985
+bestLbd 0.0
+newObjLbd -138.91733333333335
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 8.899999999999984
+bestLbd 0.0
+newObjLbd -139.01866666666666
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 8.999999999999984
+bestLbd 0.0
+newObjLbd -139.12
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 9.099999999999984
+bestLbd 0.0
+newObjLbd -139.22133333333332
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 9.199999999999983
+bestLbd 0.0
+newObjLbd -139.32266666666666
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 9.299999999999983
+bestLbd 0.0
+newObjLbd -139.42399999999998
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 9.399999999999983
+bestLbd 0.0
+newObjLbd -139.52533333333332
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 9.499999999999982
+bestLbd 0.0
+newObjLbd -139.62666666666667
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 9.599999999999982
+bestLbd 0.0
+newObjLbd -139.72799999999998
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 9.699999999999982
+bestLbd 0.0
+newObjLbd -139.82933333333332
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 9.799999999999981
+bestLbd 0.0
+newObjLbd -139.93066666666664
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 9.89999999999998
+bestLbd 0.0
+newObjLbd -140.03199999999998
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+lbd 9.99999999999998
+bestLbd 0.0
+newObjLbd -140.13333333333333
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+bestObjLbd -130.0
+bestPi [0.0, 0.0, 1.0]
+bestLbd 0.0
+t= 1
+s= 0
+lbd -0.1
+bestLbd -0.1
+newObjLbd -9999
+bestObjLbd -9999
+bestPi [1.0, 0.0, 0.0]
+lbd 0.0
+bestLbd 0.0
+newObjLbd -130.0
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.1
+bestLbd 0.0
+newObjLbd -130.10133333333334
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.2
+bestLbd 0.0
+newObjLbd -130.20266666666666
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.30000000000000004
+bestLbd 0.0
+newObjLbd -130.304
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.4
+bestLbd 0.0
+newObjLbd -130.40533333333332
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.5
+bestLbd 0.0
+newObjLbd -130.50666666666666
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.6
+bestLbd 0.0
+newObjLbd -130.60800000000003
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.7
+bestLbd 0.0
+newObjLbd -130.70933333333332
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.7999999999999999
+bestLbd 0.0
+newObjLbd -130.81066666666666
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.8999999999999999
+bestLbd 0.0
+newObjLbd -130.91199999999998
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.9999999999999999
+bestLbd 0.0
+newObjLbd -131.01333333333332
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 1.0999999999999999
+bestLbd 0.0
+newObjLbd -131.11466666666666
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 1.2
+bestLbd 0.0
+newObjLbd -131.21599999999998
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 1.3
+bestLbd 0.0
+newObjLbd -131.31733333333332
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 1.4000000000000001
+bestLbd 0.0
+newObjLbd -131.41866666666667
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 1.5000000000000002
+bestLbd 0.0
+newObjLbd -131.52
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 1.6000000000000003
+bestLbd 0.0
+newObjLbd -131.62133333333333
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 1.7000000000000004
+bestLbd 0.0
+newObjLbd -131.72266666666667
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 1.8000000000000005
+bestLbd 0.0
+newObjLbd -131.82399999999998
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 1.9000000000000006
+bestLbd 0.0
+newObjLbd -131.92533333333333
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 2.0000000000000004
+bestLbd 0.0
+newObjLbd -132.02666666666667
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 2.1000000000000005
+bestLbd 0.0
+newObjLbd -132.128
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 2.2000000000000006
+bestLbd 0.0
+newObjLbd -132.22933333333333
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 2.3000000000000007
+bestLbd 0.0
+newObjLbd -132.33066666666667
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 2.400000000000001
+bestLbd 0.0
+newObjLbd -132.43200000000002
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 2.500000000000001
+bestLbd 0.0
+newObjLbd -132.53333333333336
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 2.600000000000001
+bestLbd 0.0
+newObjLbd -132.63466666666667
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 2.700000000000001
+bestLbd 0.0
+newObjLbd -132.73600000000002
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 2.800000000000001
+bestLbd 0.0
+newObjLbd -132.83733333333333
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 2.9000000000000012
+bestLbd 0.0
+newObjLbd -132.93866666666668
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 3.0000000000000013
+bestLbd 0.0
+newObjLbd -133.04000000000002
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 3.1000000000000014
+bestLbd 0.0
+newObjLbd -133.14133333333334
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 3.2000000000000015
+bestLbd 0.0
+newObjLbd -133.24266666666668
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 3.3000000000000016
+bestLbd 0.0
+newObjLbd -133.344
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 3.4000000000000017
+bestLbd 0.0
+newObjLbd -133.44533333333334
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 3.5000000000000018
+bestLbd 0.0
+newObjLbd -133.54666666666668
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 3.600000000000002
+bestLbd 0.0
+newObjLbd -133.648
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 3.700000000000002
+bestLbd 0.0
+newObjLbd -133.74933333333334
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 3.800000000000002
+bestLbd 0.0
+newObjLbd -133.85066666666665
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 3.900000000000002
+bestLbd 0.0
+newObjLbd -133.952
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 4.000000000000002
+bestLbd 0.0
+newObjLbd -134.05333333333334
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 4.100000000000001
+bestLbd 0.0
+newObjLbd -134.15466666666666
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 4.200000000000001
+bestLbd 0.0
+newObjLbd -134.256
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 4.300000000000001
+bestLbd 0.0
+newObjLbd -134.35733333333334
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 4.4
+bestLbd 0.0
+newObjLbd -134.45866666666666
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 4.5
+bestLbd 0.0
+newObjLbd -134.56
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 4.6
+bestLbd 0.0
+newObjLbd -134.66133333333335
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 4.699999999999999
+bestLbd 0.0
+newObjLbd -134.76266666666666
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 4.799999999999999
+bestLbd 0.0
+newObjLbd -134.864
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 4.899999999999999
+bestLbd 0.0
+newObjLbd -134.96533333333332
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 4.999999999999998
+bestLbd 0.0
+newObjLbd -135.06666666666666
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 5.099999999999998
+bestLbd 0.0
+newObjLbd -135.168
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 5.1999999999999975
+bestLbd 0.0
+newObjLbd -135.26933333333332
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 5.299999999999997
+bestLbd 0.0
+newObjLbd -135.37066666666666
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 5.399999999999997
+bestLbd 0.0
+newObjLbd -135.47199999999998
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 5.4999999999999964
+bestLbd 0.0
+newObjLbd -135.57333333333332
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 5.599999999999996
+bestLbd 0.0
+newObjLbd -135.67466666666667
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 5.699999999999996
+bestLbd 0.0
+newObjLbd -135.77599999999998
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 5.799999999999995
+bestLbd 0.0
+newObjLbd -135.87733333333333
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 5.899999999999995
+bestLbd 0.0
+newObjLbd -135.97866666666664
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 5.999999999999995
+bestLbd 0.0
+newObjLbd -136.07999999999998
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 6.099999999999994
+bestLbd 0.0
+newObjLbd -136.18133333333333
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 6.199999999999994
+bestLbd 0.0
+newObjLbd -136.28266666666664
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 6.299999999999994
+bestLbd 0.0
+newObjLbd -136.38400000000001
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 6.399999999999993
+bestLbd 0.0
+newObjLbd -136.48533333333333
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 6.499999999999993
+bestLbd 0.0
+newObjLbd -136.58666666666667
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 6.5999999999999925
+bestLbd 0.0
+newObjLbd -136.688
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 6.699999999999992
+bestLbd 0.0
+newObjLbd -136.78933333333333
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 6.799999999999992
+bestLbd 0.0
+newObjLbd -136.89066666666668
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 6.8999999999999915
+bestLbd 0.0
+newObjLbd -136.992
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 6.999999999999991
+bestLbd 0.0
+newObjLbd -137.0933333333333
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 7.099999999999991
+bestLbd 0.0
+newObjLbd -137.19466666666668
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 7.19999999999999
+bestLbd 0.0
+newObjLbd -137.296
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 7.29999999999999
+bestLbd 0.0
+newObjLbd -137.39733333333334
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 7.39999999999999
+bestLbd 0.0
+newObjLbd -137.49866666666665
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 7.499999999999989
+bestLbd 0.0
+newObjLbd -137.6
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 7.599999999999989
+bestLbd 0.0
+newObjLbd -137.7013333333333
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 7.699999999999989
+bestLbd 0.0
+newObjLbd -137.80266666666665
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 7.799999999999988
+bestLbd 0.0
+newObjLbd -137.904
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 7.899999999999988
+bestLbd 0.0
+newObjLbd -138.0053333333333
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 7.999999999999988
+bestLbd 0.0
+newObjLbd -138.10666666666665
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 8.099999999999987
+bestLbd 0.0
+newObjLbd -138.20799999999997
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 8.199999999999987
+bestLbd 0.0
+newObjLbd -138.3093333333333
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 8.299999999999986
+bestLbd 0.0
+newObjLbd -138.41066666666666
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 8.399999999999986
+bestLbd 0.0
+newObjLbd -138.512
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 8.499999999999986
+bestLbd 0.0
+newObjLbd -138.61333333333332
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 8.599999999999985
+bestLbd 0.0
+newObjLbd -138.7146666666667
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 8.699999999999985
+bestLbd 0.0
+newObjLbd -138.816
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 8.799999999999985
+bestLbd 0.0
+newObjLbd -138.91733333333332
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 8.899999999999984
+bestLbd 0.0
+newObjLbd -139.01866666666666
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 8.999999999999984
+bestLbd 0.0
+newObjLbd -139.12
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 9.099999999999984
+bestLbd 0.0
+newObjLbd -139.22133333333332
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 9.199999999999983
+bestLbd 0.0
+newObjLbd -139.32266666666666
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 9.299999999999983
+bestLbd 0.0
+newObjLbd -139.42399999999998
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 9.399999999999983
+bestLbd 0.0
+newObjLbd -139.52533333333332
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 9.499999999999982
+bestLbd 0.0
+newObjLbd -139.62666666666667
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 9.599999999999982
+bestLbd 0.0
+newObjLbd -139.72799999999998
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 9.699999999999982
+bestLbd 0.0
+newObjLbd -139.82933333333332
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 9.799999999999981
+bestLbd 0.0
+newObjLbd -139.93066666666667
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 9.89999999999998
+bestLbd 0.0
+newObjLbd -140.03199999999998
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 9.99999999999998
+bestLbd 0.0
+newObjLbd -140.13333333333333
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+bestLbd 0.0
+t= 1
+s= 1
+lbd -0.1
+bestLbd -0.1
+newObjLbd -9999
+bestObjLbd -9999
+bestPi [1.0, 0.0, 0.0]
+lbd 0.0
+bestLbd 0.0
+newObjLbd -130.0
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.1
+bestLbd 0.0
+newObjLbd -130.11666666666667
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.2
+bestLbd 0.0
+newObjLbd -130.23333333333332
+bestObjLbd -130.0
+bestPi [0.75, 0.25, 0.0]
+lbd 0.30000000000000004
+bestLbd 0.0
+newObjLbd -130.25400000000002
+bestObjLbd -130.0
+bestPi [0.75, 0.25, 0.0]
+lbd 0.4
+bestLbd 0.0
+newObjLbd -130.17199999999997
+bestObjLbd -130.0
+bestPi [0.75, 0.25, 0.0]
+lbd 0.5
+bestLbd 0.0
+newObjLbd -130.09
+bestObjLbd -130.0
+bestPi [0.75, 0.25, 0.0]
+lbd 0.6
+bestLbd 0.0
+newObjLbd -130.008
+bestObjLbd -130.0
+bestPi [0.75, 0.25, 0.0]
+lbd 0.7
+bestLbd 0.7
+newObjLbd -129.92600000000002
+bestObjLbd -129.92600000000002
+bestPi [0.75, 0.25, 0.0]
+lbd 0.7999999999999999
+bestLbd 0.7999999999999999
+newObjLbd -129.844
+bestObjLbd -129.844
+bestPi [0.75, 0.25, 0.0]
+lbd 0.8999999999999999
+bestLbd 0.8999999999999999
+newObjLbd -129.762
+bestObjLbd -129.762
+bestPi [0.75, 0.25, 0.0]
+lbd 0.9999999999999999
+bestLbd 0.9999999999999999
+newObjLbd -129.68
+bestObjLbd -129.68
+bestPi [0.75, 0.25, 0.0]
+lbd 1.0999999999999999
+bestLbd 1.0999999999999999
+newObjLbd -129.598
+bestObjLbd -129.598
+bestPi [0.75, 0.25, 0.0]
+lbd 1.2
+bestLbd 1.2
+newObjLbd -129.516
+bestObjLbd -129.516
+bestPi [0.75, 0.25, 0.0]
+lbd 1.3
+bestLbd 1.3
+newObjLbd -129.434
+bestObjLbd -129.434
+bestPi [0.75, 0.25, 0.0]
+lbd 1.4000000000000001
+bestLbd 1.4000000000000001
+newObjLbd -129.352
+bestObjLbd -129.352
+bestPi [0.75, 0.25, 0.0]
+lbd 1.5000000000000002
+bestLbd 1.5000000000000002
+newObjLbd -129.27
+bestObjLbd -129.27
+bestPi [0.75, 0.25, 0.0]
+lbd 1.6000000000000003
+bestLbd 1.6000000000000003
+newObjLbd -129.188
+bestObjLbd -129.188
+bestPi [0.75, 0.25, 0.0]
+lbd 1.7000000000000004
+bestLbd 1.7000000000000004
+newObjLbd -129.106
+bestObjLbd -129.106
+bestPi [0.75, 0.25, 0.0]
+lbd 1.8000000000000005
+bestLbd 1.8000000000000005
+newObjLbd -129.02399999999997
+bestObjLbd -129.02399999999997
+bestPi [0.75, 0.25, 0.0]
+lbd 1.9000000000000006
+bestLbd 1.9000000000000006
+newObjLbd -128.942
+bestObjLbd -128.942
+bestPi [0.75, 0.25, 0.0]
+lbd 2.0000000000000004
+bestLbd 2.0000000000000004
+newObjLbd -128.86
+bestObjLbd -128.86
+bestPi [0.75, 0.25, 0.0]
+lbd 2.1000000000000005
+bestLbd 2.1000000000000005
+newObjLbd -128.778
+bestObjLbd -128.778
+bestPi [0.75, 0.25, 0.0]
+lbd 2.2000000000000006
+bestLbd 2.2000000000000006
+newObjLbd -128.696
+bestObjLbd -128.696
+bestPi [0.75, 0.25, 0.0]
+lbd 2.3000000000000007
+bestLbd 2.3000000000000007
+newObjLbd -128.614
+bestObjLbd -128.614
+bestPi [0.75, 0.25, 0.0]
+lbd 2.400000000000001
+bestLbd 2.400000000000001
+newObjLbd -128.53199999999998
+bestObjLbd -128.53199999999998
+bestPi [0.75, 0.25, 0.0]
+lbd 2.500000000000001
+bestLbd 2.500000000000001
+newObjLbd -128.45000000000002
+bestObjLbd -128.45000000000002
+bestPi [0.75, 0.25, 0.0]
+lbd 2.600000000000001
+bestLbd 2.600000000000001
+newObjLbd -128.368
+bestObjLbd -128.368
+bestPi [0.75, 0.25, 0.0]
+lbd 2.700000000000001
+bestLbd 2.700000000000001
+newObjLbd -128.286
+bestObjLbd -128.286
+bestPi [0.75, 0.25, 0.0]
+lbd 2.800000000000001
+bestLbd 2.800000000000001
+newObjLbd -128.20399999999998
+bestObjLbd -128.20399999999998
+bestPi [0.75, 0.25, 0.0]
+lbd 2.9000000000000012
+bestLbd 2.9000000000000012
+newObjLbd -128.12199999999999
+bestObjLbd -128.12199999999999
+bestPi [0.75, 0.25, 0.0]
+lbd 3.0000000000000013
+bestLbd 3.0000000000000013
+newObjLbd -128.04000000000002
+bestObjLbd -128.04000000000002
+bestPi [0.75, 0.25, 0.0]
+lbd 3.1000000000000014
+bestLbd 3.1000000000000014
+newObjLbd -127.958
+bestObjLbd -127.958
+bestPi [0.75, 0.25, 0.0]
+lbd 3.2000000000000015
+bestLbd 3.2000000000000015
+newObjLbd -127.876
+bestObjLbd -127.876
+bestPi [0.75, 0.25, 0.0]
+lbd 3.3000000000000016
+bestLbd 3.3000000000000016
+newObjLbd -127.79400000000001
+bestObjLbd -127.79400000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 3.4000000000000017
+bestLbd 3.4000000000000017
+newObjLbd -127.71199999999999
+bestObjLbd -127.71199999999999
+bestPi [0.75, 0.25, 0.0]
+lbd 3.5000000000000018
+bestLbd 3.5000000000000018
+newObjLbd -127.63
+bestObjLbd -127.63
+bestPi [0.75, 0.25, 0.0]
+lbd 3.600000000000002
+bestLbd 3.600000000000002
+newObjLbd -127.548
+bestObjLbd -127.548
+bestPi [0.75, 0.25, 0.0]
+lbd 3.700000000000002
+bestLbd 3.700000000000002
+newObjLbd -127.466
+bestObjLbd -127.466
+bestPi [0.75, 0.25, 0.0]
+lbd 3.800000000000002
+bestLbd 3.800000000000002
+newObjLbd -127.384
+bestObjLbd -127.384
+bestPi [0.75, 0.25, 0.0]
+lbd 3.900000000000002
+bestLbd 3.900000000000002
+newObjLbd -127.30199999999999
+bestObjLbd -127.30199999999999
+bestPi [0.75, 0.25, 0.0]
+lbd 4.000000000000002
+bestLbd 4.000000000000002
+newObjLbd -127.21999999999998
+bestObjLbd -127.21999999999998
+bestPi [0.75, 0.25, 0.0]
+lbd 4.100000000000001
+bestLbd 4.100000000000001
+newObjLbd -127.13799999999998
+bestObjLbd -127.13799999999998
+bestPi [0.75, 0.25, 0.0]
+lbd 4.200000000000001
+bestLbd 4.200000000000001
+newObjLbd -127.05600000000001
+bestObjLbd -127.05600000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 4.300000000000001
+bestLbd 4.300000000000001
+newObjLbd -126.974
+bestObjLbd -126.974
+bestPi [0.75, 0.25, 0.0]
+lbd 4.4
+bestLbd 4.4
+newObjLbd -126.89200000000001
+bestObjLbd -126.89200000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 4.5
+bestLbd 4.5
+newObjLbd -126.81
+bestObjLbd -126.81
+bestPi [0.75, 0.25, 0.0]
+lbd 4.6
+bestLbd 4.6
+newObjLbd -126.728
+bestObjLbd -126.728
+bestPi [0.75, 0.25, 0.0]
+lbd 4.699999999999999
+bestLbd 4.699999999999999
+newObjLbd -126.646
+bestObjLbd -126.646
+bestPi [0.75, 0.25, 0.0]
+lbd 4.799999999999999
+bestLbd 4.799999999999999
+newObjLbd -126.564
+bestObjLbd -126.564
+bestPi [0.75, 0.25, 0.0]
+lbd 4.899999999999999
+bestLbd 4.899999999999999
+newObjLbd -126.482
+bestObjLbd -126.482
+bestPi [0.75, 0.25, 0.0]
+lbd 4.999999999999998
+bestLbd 4.999999999999998
+newObjLbd -126.40000000000002
+bestObjLbd -126.40000000000002
+bestPi [0.75, 0.25, 0.0]
+lbd 5.099999999999998
+bestLbd 5.099999999999998
+newObjLbd -126.31800000000001
+bestObjLbd -126.31800000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 5.1999999999999975
+bestLbd 5.1999999999999975
+newObjLbd -126.236
+bestObjLbd -126.236
+bestPi [0.75, 0.25, 0.0]
+lbd 5.299999999999997
+bestLbd 5.299999999999997
+newObjLbd -126.15400000000001
+bestObjLbd -126.15400000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 5.399999999999997
+bestLbd 5.399999999999997
+newObjLbd -126.072
+bestObjLbd -126.072
+bestPi [0.75, 0.25, 0.0]
+lbd 5.4999999999999964
+bestLbd 5.4999999999999964
+newObjLbd -125.99
+bestObjLbd -125.99
+bestPi [0.75, 0.25, 0.0]
+lbd 5.599999999999996
+bestLbd 5.599999999999996
+newObjLbd -125.90800000000002
+bestObjLbd -125.90800000000002
+bestPi [0.75, 0.25, 0.0]
+lbd 5.699999999999996
+bestLbd 5.699999999999996
+newObjLbd -125.826
+bestObjLbd -125.826
+bestPi [0.75, 0.25, 0.0]
+lbd 5.799999999999995
+bestLbd 5.799999999999995
+newObjLbd -125.744
+bestObjLbd -125.744
+bestPi [0.75, 0.25, 0.0]
+lbd 5.899999999999995
+bestLbd 5.899999999999995
+newObjLbd -125.66200000000002
+bestObjLbd -125.66200000000002
+bestPi [0.75, 0.25, 0.0]
+lbd 5.999999999999995
+bestLbd 5.999999999999995
+newObjLbd -125.58000000000001
+bestObjLbd -125.58000000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 6.099999999999994
+bestLbd 6.099999999999994
+newObjLbd -125.498
+bestObjLbd -125.498
+bestPi [0.75, 0.25, 0.0]
+lbd 6.199999999999994
+bestLbd 6.199999999999994
+newObjLbd -125.41600000000001
+bestObjLbd -125.41600000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 6.299999999999994
+bestLbd 6.299999999999994
+newObjLbd -125.37400000000001
+bestObjLbd -125.37400000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 6.399999999999993
+bestLbd 6.399999999999993
+newObjLbd -125.37200000000001
+bestObjLbd -125.37200000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 6.499999999999993
+bestLbd 6.499999999999993
+newObjLbd -125.37
+bestObjLbd -125.37
+bestPi [0.75, 0.25, 0.0]
+lbd 6.5999999999999925
+bestLbd 6.5999999999999925
+newObjLbd -125.368
+bestObjLbd -125.368
+bestPi [0.75, 0.25, 0.0]
+lbd 6.699999999999992
+bestLbd 6.699999999999992
+newObjLbd -125.366
+bestObjLbd -125.366
+bestPi [0.75, 0.25, 0.0]
+lbd 6.799999999999992
+bestLbd 6.799999999999992
+newObjLbd -125.36399999999999
+bestObjLbd -125.36399999999999
+bestPi [0.5, 0.5, 0.0]
+lbd 6.8999999999999915
+bestLbd 6.8999999999999915
+newObjLbd -125.34200000000001
+bestObjLbd -125.34200000000001
+bestPi [0.5, 0.5, 0.0]
+lbd 6.999999999999991
+bestLbd 6.999999999999991
+newObjLbd -125.26
+bestObjLbd -125.26
+bestPi [0.5, 0.5, 0.0]
+lbd 7.099999999999991
+bestLbd 7.099999999999991
+newObjLbd -125.17800000000001
+bestObjLbd -125.17800000000001
+bestPi [0.5, 0.5, 0.0]
+lbd 7.19999999999999
+bestLbd 7.19999999999999
+newObjLbd -125.096
+bestObjLbd -125.096
+bestPi [0.5, 0.5, 0.0]
+lbd 7.29999999999999
+bestLbd 7.29999999999999
+newObjLbd -125.01400000000001
+bestObjLbd -125.01400000000001
+bestPi [0.5, 0.5, 0.0]
+lbd 7.39999999999999
+bestLbd 7.39999999999999
+newObjLbd -124.93200000000002
+bestObjLbd -124.93200000000002
+bestPi [0.5, 0.5, 0.0]
+lbd 7.499999999999989
+bestLbd 7.499999999999989
+newObjLbd -124.85
+bestObjLbd -124.85
+bestPi [0.5, 0.5, 0.0]
+lbd 7.599999999999989
+bestLbd 7.599999999999989
+newObjLbd -124.768
+bestObjLbd -124.768
+bestPi [0.5, 0.5, 0.0]
+lbd 7.699999999999989
+bestLbd 7.699999999999989
+newObjLbd -124.68600000000002
+bestObjLbd -124.68600000000002
+bestPi [0.5, 0.5, 0.0]
+lbd 7.799999999999988
+bestLbd 7.799999999999988
+newObjLbd -124.60400000000001
+bestObjLbd -124.60400000000001
+bestPi [0.5, 0.5, 0.0]
+lbd 7.899999999999988
+bestLbd 7.899999999999988
+newObjLbd -124.522
+bestObjLbd -124.522
+bestPi [0.5, 0.5, 0.0]
+lbd 7.999999999999988
+bestLbd 7.999999999999988
+newObjLbd -124.44000000000003
+bestObjLbd -124.44000000000003
+bestPi [0.5, 0.5, 0.0]
+lbd 8.099999999999987
+bestLbd 8.099999999999987
+newObjLbd -124.358
+bestObjLbd -124.358
+bestPi [0.5, 0.5, 0.0]
+lbd 8.199999999999987
+bestLbd 8.199999999999987
+newObjLbd -124.27600000000001
+bestObjLbd -124.27600000000001
+bestPi [0.5, 0.5, 0.0]
+lbd 8.299999999999986
+bestLbd 8.299999999999986
+newObjLbd -124.19400000000002
+bestObjLbd -124.19400000000002
+bestPi [0.5, 0.5, 0.0]
+lbd 8.399999999999986
+bestLbd 8.399999999999986
+newObjLbd -124.112
+bestObjLbd -124.112
+bestPi [0.5, 0.5, 0.0]
+lbd 8.499999999999986
+bestLbd 8.499999999999986
+newObjLbd -124.03
+bestObjLbd -124.03
+bestPi [0.5, 0.5, 0.0]
+lbd 8.599999999999985
+bestLbd 8.599999999999985
+newObjLbd -123.94800000000002
+bestObjLbd -123.94800000000002
+bestPi [0.5, 0.5, 0.0]
+lbd 8.699999999999985
+bestLbd 8.699999999999985
+newObjLbd -123.86600000000001
+bestObjLbd -123.86600000000001
+bestPi [0.5, 0.5, 0.0]
+lbd 8.799999999999985
+bestLbd 8.799999999999985
+newObjLbd -123.78400000000002
+bestObjLbd -123.78400000000002
+bestPi [0.5, 0.5, 0.0]
+lbd 8.899999999999984
+bestLbd 8.899999999999984
+newObjLbd -123.70200000000003
+bestObjLbd -123.70200000000003
+bestPi [0.5, 0.5, 0.0]
+lbd 8.999999999999984
+bestLbd 8.999999999999984
+newObjLbd -123.62
+bestObjLbd -123.62
+bestPi [0.5, 0.5, 0.0]
+lbd 9.099999999999984
+bestLbd 9.099999999999984
+newObjLbd -123.53800000000001
+bestObjLbd -123.53800000000001
+bestPi [0.5, 0.5, 0.0]
+lbd 9.199999999999983
+bestLbd 9.199999999999983
+newObjLbd -123.45600000000002
+bestObjLbd -123.45600000000002
+bestPi [0.5, 0.5, 0.0]
+lbd 9.299999999999983
+bestLbd 9.299999999999983
+newObjLbd -123.37400000000001
+bestObjLbd -123.37400000000001
+bestPi [0.5, 0.5, 0.0]
+lbd 9.399999999999983
+bestLbd 9.399999999999983
+newObjLbd -123.292
+bestObjLbd -123.292
+bestPi [0.5, 0.5, 0.0]
+lbd 9.499999999999982
+bestLbd 9.499999999999982
+newObjLbd -123.21000000000002
+bestObjLbd -123.21000000000002
+bestPi [0.5, 0.5, 0.0]
+lbd 9.599999999999982
+bestLbd 9.599999999999982
+newObjLbd -123.12800000000001
+bestObjLbd -123.12800000000001
+bestPi [0.5, 0.5, 0.0]
+lbd 9.699999999999982
+bestLbd 9.699999999999982
+newObjLbd -123.04600000000002
+bestObjLbd -123.04600000000002
+bestPi [0.5, 0.5, 0.0]
+lbd 9.799999999999981
+bestLbd 9.799999999999981
+newObjLbd -122.96400000000003
+bestObjLbd -122.96400000000003
+bestPi [0.5, 0.5, 0.0]
+lbd 9.89999999999998
+bestLbd 9.89999999999998
+newObjLbd -122.88200000000003
+bestObjLbd -122.88200000000003
+bestPi [0.5, 0.5, 0.0]
+lbd 9.99999999999998
+bestLbd 9.99999999999998
+newObjLbd -122.80000000000001
+bestObjLbd -122.80000000000001
+bestPi [0.5, 0.5, 0.0]
+bestObjLbd -122.80000000000001
+bestPi [0.5, 0.5, 0.0]
+bestLbd 9.99999999999998
+t= 1
+s= 2
+lbd -0.1
+bestLbd -0.1
+newObjLbd -9999
+bestObjLbd -9999
+bestPi [1.0, 0.0, 0.0]
+lbd 0.0
+bestLbd 0.0
+newObjLbd -130.0
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.1
+bestLbd 0.0
+newObjLbd -130.13000000000002
+bestObjLbd -130.0
+bestPi [0.75, 0.25, 0.0]
+lbd 0.2
+bestLbd 0.0
+newObjLbd -130.24599999999998
+bestObjLbd -130.0
+bestPi [0.75, 0.25, 0.0]
+lbd 0.30000000000000004
+bestLbd 0.30000000000000004
+newObjLbd -129.994
+bestObjLbd -129.994
+bestPi [0.75, 0.25, 0.0]
+lbd 0.4
+bestLbd 0.4
+newObjLbd -129.742
+bestObjLbd -129.742
+bestPi [0.75, 0.25, 0.0]
+lbd 0.5
+bestLbd 0.5
+newObjLbd -129.49
+bestObjLbd -129.49
+bestPi [0.75, 0.25, 0.0]
+lbd 0.6
+bestLbd 0.6
+newObjLbd -129.238
+bestObjLbd -129.238
+bestPi [0.75, 0.25, 0.0]
+lbd 0.7
+bestLbd 0.7
+newObjLbd -128.98600000000002
+bestObjLbd -128.98600000000002
+bestPi [0.75, 0.25, 0.0]
+lbd 0.7999999999999999
+bestLbd 0.7999999999999999
+newObjLbd -128.734
+bestObjLbd -128.734
+bestPi [0.75, 0.25, 0.0]
+lbd 0.8999999999999999
+bestLbd 0.8999999999999999
+newObjLbd -128.482
+bestObjLbd -128.482
+bestPi [0.75, 0.25, 0.0]
+lbd 0.9999999999999999
+bestLbd 0.9999999999999999
+newObjLbd -128.23
+bestObjLbd -128.23
+bestPi [0.75, 0.25, 0.0]
+lbd 1.0999999999999999
+bestLbd 1.0999999999999999
+newObjLbd -127.978
+bestObjLbd -127.978
+bestPi [0.75, 0.25, 0.0]
+lbd 1.2
+bestLbd 1.2
+newObjLbd -127.72599999999998
+bestObjLbd -127.72599999999998
+bestPi [0.75, 0.25, 0.0]
+lbd 1.3
+bestLbd 1.3
+newObjLbd -127.474
+bestObjLbd -127.474
+bestPi [0.75, 0.25, 0.0]
+lbd 1.4000000000000001
+bestLbd 1.4000000000000001
+newObjLbd -127.22200000000001
+bestObjLbd -127.22200000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 1.5000000000000002
+bestLbd 1.5000000000000002
+newObjLbd -126.97000000000001
+bestObjLbd -126.97000000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 1.6000000000000003
+bestLbd 1.6000000000000003
+newObjLbd -126.718
+bestObjLbd -126.718
+bestPi [0.75, 0.25, 0.0]
+lbd 1.7000000000000004
+bestLbd 1.7000000000000004
+newObjLbd -126.46599999999998
+bestObjLbd -126.46599999999998
+bestPi [0.75, 0.25, 0.0]
+lbd 1.8000000000000005
+bestLbd 1.8000000000000005
+newObjLbd -126.21400000000001
+bestObjLbd -126.21400000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 1.9000000000000006
+bestLbd 1.9000000000000006
+newObjLbd -125.962
+bestObjLbd -125.962
+bestPi [0.75, 0.25, 0.0]
+lbd 2.0000000000000004
+bestLbd 2.0000000000000004
+newObjLbd -125.71
+bestObjLbd -125.71
+bestPi [0.75, 0.25, 0.0]
+lbd 2.1000000000000005
+bestLbd 2.1000000000000005
+newObjLbd -125.458
+bestObjLbd -125.458
+bestPi [0.75, 0.25, 0.0]
+lbd 2.2000000000000006
+bestLbd 2.2000000000000006
+newObjLbd -125.20599999999999
+bestObjLbd -125.20599999999999
+bestPi [0.75, 0.25, 0.0]
+lbd 2.3000000000000007
+bestLbd 2.3000000000000007
+newObjLbd -124.954
+bestObjLbd -124.954
+bestPi [0.75, 0.25, 0.0]
+lbd 2.400000000000001
+bestLbd 2.400000000000001
+newObjLbd -124.702
+bestObjLbd -124.702
+bestPi [0.75, 0.25, 0.0]
+lbd 2.500000000000001
+bestLbd 2.500000000000001
+newObjLbd -124.45
+bestObjLbd -124.45
+bestPi [0.75, 0.25, 0.0]
+lbd 2.600000000000001
+bestLbd 2.600000000000001
+newObjLbd -124.27799999999999
+bestObjLbd -124.27799999999999
+bestPi [0.75, 0.25, 0.0]
+lbd 2.700000000000001
+bestLbd 2.700000000000001
+newObjLbd -124.10600000000002
+bestObjLbd -124.10600000000002
+bestPi [0.75, 0.25, 0.0]
+lbd 2.800000000000001
+bestLbd 2.800000000000001
+newObjLbd -123.934
+bestObjLbd -123.934
+bestPi [0.75, 0.25, 0.0]
+lbd 2.9000000000000012
+bestLbd 2.9000000000000012
+newObjLbd -123.79017222222222
+bestObjLbd -123.79017222222222
+bestPi [0.75, 0.25, 0.0]
+lbd 3.0000000000000013
+bestLbd 3.0000000000000013
+newObjLbd -123.69150555555557
+bestObjLbd -123.69150555555557
+bestPi [0.75, 0.25, 0.0]
+lbd 3.1000000000000014
+bestLbd 3.1000000000000014
+newObjLbd -123.59283888888888
+bestObjLbd -123.59283888888888
+bestPi [0.5, 0.5, 0.0]
+lbd 3.2000000000000015
+bestLbd 3.2000000000000015
+newObjLbd -123.436
+bestObjLbd -123.436
+bestPi [0.5, 0.5, 0.0]
+lbd 3.3000000000000016
+bestLbd 3.3000000000000016
+newObjLbd -123.184
+bestObjLbd -123.184
+bestPi [0.5, 0.5, 0.0]
+lbd 3.4000000000000017
+bestLbd 3.4000000000000017
+newObjLbd -122.93199999999999
+bestObjLbd -122.93199999999999
+bestPi [0.5, 0.5, 0.0]
+lbd 3.5000000000000018
+bestLbd 3.5000000000000018
+newObjLbd -122.67999999999999
+bestObjLbd -122.67999999999999
+bestPi [0.5, 0.5, 0.0]
+lbd 3.600000000000002
+bestLbd 3.600000000000002
+newObjLbd -122.428
+bestObjLbd -122.428
+bestPi [0.5, 0.5, 0.0]
+lbd 3.700000000000002
+bestLbd 3.700000000000002
+newObjLbd -122.17599999999999
+bestObjLbd -122.17599999999999
+bestPi [0.5, 0.5, 0.0]
+lbd 3.800000000000002
+bestLbd 3.800000000000002
+newObjLbd -121.924
+bestObjLbd -121.924
+bestPi [0.5, 0.5, 0.0]
+lbd 3.900000000000002
+bestLbd 3.900000000000002
+newObjLbd -121.67199999999998
+bestObjLbd -121.67199999999998
+bestPi [0.5, 0.5, 0.0]
+lbd 4.000000000000002
+bestLbd 4.000000000000002
+newObjLbd -121.42
+bestObjLbd -121.42
+bestPi [0.5, 0.5, 0.0]
+lbd 4.100000000000001
+bestLbd 4.100000000000001
+newObjLbd -121.16799999999998
+bestObjLbd -121.16799999999998
+bestPi [0.5, 0.5, 0.0]
+lbd 4.200000000000001
+bestLbd 4.200000000000001
+newObjLbd -120.916
+bestObjLbd -120.916
+bestPi [0.5, 0.5, 0.0]
+lbd 4.300000000000001
+bestLbd 4.300000000000001
+newObjLbd -120.66400000000002
+bestObjLbd -120.66400000000002
+bestPi [0.5, 0.5, 0.0]
+lbd 4.4
+bestLbd 4.4
+newObjLbd -120.41199999999999
+bestObjLbd -120.41199999999999
+bestPi [0.5, 0.5, 0.0]
+lbd 4.5
+bestLbd 4.5
+newObjLbd -120.16000000000001
+bestObjLbd -120.16000000000001
+bestPi [0.5, 0.5, 0.0]
+lbd 4.6
+bestLbd 4.6
+newObjLbd -119.908
+bestObjLbd -119.908
+bestPi [0.5, 0.5, 0.0]
+lbd 4.699999999999999
+bestLbd 4.699999999999999
+newObjLbd -119.65599999999999
+bestObjLbd -119.65599999999999
+bestPi [0.5, 0.5, 0.0]
+lbd 4.799999999999999
+bestLbd 4.799999999999999
+newObjLbd -119.404
+bestObjLbd -119.404
+bestPi [0.5, 0.5, 0.0]
+lbd 4.899999999999999
+bestLbd 4.899999999999999
+newObjLbd -119.15199999999999
+bestObjLbd -119.15199999999999
+bestPi [0.5, 0.5, 0.0]
+lbd 4.999999999999998
+bestLbd 4.999999999999998
+newObjLbd -118.90000000000002
+bestObjLbd -118.90000000000002
+bestPi [0.5, 0.5, 0.0]
+lbd 5.099999999999998
+bestLbd 5.099999999999998
+newObjLbd -118.728
+bestObjLbd -118.728
+bestPi [0.45, 0.55, 0.0]
+lbd 5.1999999999999975
+bestLbd 5.1999999999999975
+newObjLbd -118.54600000000002
+bestObjLbd -118.54600000000002
+bestPi [0.45, 0.55, 0.0]
+lbd 5.299999999999997
+bestLbd 5.299999999999997
+newObjLbd -118.29400000000001
+bestObjLbd -118.29400000000001
+bestPi [0.45, 0.55, 0.0]
+lbd 5.399999999999997
+bestLbd 5.399999999999997
+newObjLbd -118.04200000000002
+bestObjLbd -118.04200000000002
+bestPi [0.45, 0.55, 0.0]
+lbd 5.4999999999999964
+bestLbd 5.4999999999999964
+newObjLbd -117.79000000000002
+bestObjLbd -117.79000000000002
+bestPi [0.45, 0.55, 0.0]
+lbd 5.599999999999996
+bestLbd 5.599999999999996
+newObjLbd -117.61800000000002
+bestObjLbd -117.61800000000002
+bestPi [0.45, 0.55, 0.0]
+lbd 5.699999999999996
+bestLbd 5.699999999999996
+newObjLbd -117.446
+bestObjLbd -117.446
+bestPi [0.45, 0.55, 0.0]
+lbd 5.799999999999995
+bestLbd 5.799999999999995
+newObjLbd -117.274
+bestObjLbd -117.274
+bestPi [0.45, 0.55, 0.0]
+lbd 5.899999999999995
+bestLbd 5.899999999999995
+newObjLbd -117.10200000000002
+bestObjLbd -117.10200000000002
+bestPi [0.45, 0.55, 0.0]
+lbd 5.999999999999995
+bestLbd 5.999999999999995
+newObjLbd -116.93
+bestObjLbd -116.93
+bestPi [0.45, 0.55, 0.0]
+lbd 6.099999999999994
+bestLbd 6.099999999999994
+newObjLbd -116.75800000000002
+bestObjLbd -116.75800000000002
+bestPi [0.45, 0.55, 0.0]
+lbd 6.199999999999994
+bestLbd 6.199999999999994
+newObjLbd -116.58600000000001
+bestObjLbd -116.58600000000001
+bestPi [0.25, 0.75, 0.0]
+lbd 6.299999999999994
+bestLbd 6.299999999999994
+newObjLbd -116.37400000000001
+bestObjLbd -116.37400000000001
+bestPi [0.25, 0.75, 0.0]
+lbd 6.399999999999993
+bestLbd 6.399999999999993
+newObjLbd -116.12200000000001
+bestObjLbd -116.12200000000001
+bestPi [0.25, 0.75, 0.0]
+lbd 6.499999999999993
+bestLbd 6.499999999999993
+newObjLbd -115.87000000000003
+bestObjLbd -115.87000000000003
+bestPi [0.25, 0.75, 0.0]
+lbd 6.5999999999999925
+bestLbd 6.5999999999999925
+newObjLbd -115.61800000000002
+bestObjLbd -115.61800000000002
+bestPi [0.25, 0.75, 0.0]
+lbd 6.699999999999992
+bestLbd 6.699999999999992
+newObjLbd -115.36600000000001
+bestObjLbd -115.36600000000001
+bestPi [0.25, 0.75, 0.0]
+lbd 6.799999999999992
+bestLbd 6.799999999999992
+newObjLbd -115.11400000000003
+bestObjLbd -115.11400000000003
+bestPi [0.25, 0.75, 0.0]
+lbd 6.8999999999999915
+bestLbd 6.8999999999999915
+newObjLbd -114.86200000000001
+bestObjLbd -114.86200000000001
+bestPi [0.25, 0.75, 0.0]
+lbd 6.999999999999991
+bestLbd 6.999999999999991
+newObjLbd -114.61000000000003
+bestObjLbd -114.61000000000003
+bestPi [0.25, 0.75, 0.0]
+lbd 7.099999999999991
+bestLbd 7.099999999999991
+newObjLbd -114.35800000000002
+bestObjLbd -114.35800000000002
+bestPi [0.25, 0.75, 0.0]
+lbd 7.19999999999999
+bestLbd 7.19999999999999
+newObjLbd -114.10600000000002
+bestObjLbd -114.10600000000002
+bestPi [0.25, 0.75, 0.0]
+lbd 7.29999999999999
+bestLbd 7.29999999999999
+newObjLbd -113.85400000000004
+bestObjLbd -113.85400000000004
+bestPi [0.25, 0.75, 0.0]
+lbd 7.39999999999999
+bestLbd 7.39999999999999
+newObjLbd -113.602
+bestObjLbd -113.602
+bestPi [0.25, 0.75, 0.0]
+lbd 7.499999999999989
+bestLbd 7.499999999999989
+newObjLbd -113.35000000000004
+bestObjLbd -113.35000000000004
+bestPi [0.25, 0.75, 0.0]
+lbd 7.599999999999989
+bestLbd 7.599999999999989
+newObjLbd -113.17800000000001
+bestObjLbd -113.17800000000001
+bestPi [0.25, 0.75, 0.0]
+lbd 7.699999999999989
+bestLbd 7.699999999999989
+newObjLbd -113.00600000000001
+bestObjLbd -113.00600000000001
+bestPi [0.25, 0.75, 0.0]
+lbd 7.799999999999988
+bestLbd 7.799999999999988
+newObjLbd -112.834
+bestObjLbd -112.834
+bestPi [0.25, 0.75, 0.0]
+lbd 7.899999999999988
+bestLbd 7.899999999999988
+newObjLbd -112.662
+bestObjLbd -112.662
+bestPi [0.25, 0.75, 0.0]
+lbd 7.999999999999988
+bestLbd 7.999999999999988
+newObjLbd -112.49000000000001
+bestObjLbd -112.49000000000001
+bestPi [0.25, 0.75, 0.0]
+lbd 8.099999999999987
+bestLbd 8.099999999999987
+newObjLbd -112.31800000000001
+bestObjLbd -112.31800000000001
+bestPi [0.25, 0.75, 0.0]
+lbd 8.199999999999987
+bestLbd 8.199999999999987
+newObjLbd -112.14600000000002
+bestObjLbd -112.14600000000002
+bestPi [0.25, 0.75, 0.0]
+lbd 8.299999999999986
+bestLbd 8.299999999999986
+newObjLbd -111.97400000000002
+bestObjLbd -111.97400000000002
+bestPi [0.25, 0.75, 0.0]
+lbd 8.399999999999986
+bestLbd 8.399999999999986
+newObjLbd -111.80200000000004
+bestObjLbd -111.80200000000004
+bestPi [0.25, 0.75, 0.0]
+lbd 8.499999999999986
+bestLbd 8.499999999999986
+newObjLbd -111.63000000000002
+bestObjLbd -111.63000000000002
+bestPi [0.25, 0.75, 0.0]
+lbd 8.599999999999985
+bestLbd 8.599999999999985
+newObjLbd -111.46918333333333
+bestObjLbd -111.46918333333333
+bestPi [0.25, 0.75, 0.0]
+lbd 8.699999999999985
+bestLbd 8.699999999999985
+newObjLbd -111.37051666666667
+bestObjLbd -111.37051666666667
+bestPi [0.25, 0.75, 0.0]
+lbd 8.799999999999985
+bestLbd 8.799999999999985
+newObjLbd -111.27185000000003
+bestObjLbd -111.27185000000003
+bestPi [0.25, 0.75, 0.0]
+lbd 8.899999999999984
+bestLbd 8.899999999999984
+newObjLbd -111.17318333333336
+bestObjLbd -111.17318333333336
+bestPi [0.25, 0.75, 0.0]
+lbd 8.999999999999984
+bestLbd 8.999999999999984
+newObjLbd -111.07451666666668
+bestObjLbd -111.07451666666668
+bestPi [0.25, 0.75, 0.0]
+lbd 9.099999999999984
+bestLbd 9.099999999999984
+newObjLbd -111.0402027777778
+bestObjLbd -111.0402027777778
+bestPi [0.25, 0.75, 0.0]
+lbd 9.199999999999983
+bestLbd 9.199999999999983
+newObjLbd -111.0082027777778
+bestObjLbd -111.0082027777778
+bestPi [0.25, 0.75, 0.0]
+lbd 9.299999999999983
+bestLbd 9.299999999999983
+newObjLbd -110.97620277777779
+bestObjLbd -110.97620277777779
+bestPi [0.25, 0.75, 0.0]
+lbd 9.399999999999983
+bestLbd 9.399999999999983
+newObjLbd -110.94420277777779
+bestObjLbd -110.94420277777779
+bestPi [0.25, 0.75, 0.0]
+lbd 9.499999999999982
+bestLbd 9.499999999999982
+newObjLbd -110.91220277777778
+bestObjLbd -110.91220277777778
+bestPi [0.25, 0.75, 0.0]
+lbd 9.599999999999982
+bestLbd 9.599999999999982
+newObjLbd -110.88020277777781
+bestObjLbd -110.88020277777781
+bestPi [0.25, 0.75, 0.0]
+lbd 9.699999999999982
+bestLbd 9.699999999999982
+newObjLbd -110.8482027777778
+bestObjLbd -110.8482027777778
+bestPi [0.25, 0.75, 0.0]
+lbd 9.799999999999981
+bestLbd 9.799999999999981
+newObjLbd -110.81620277777776
+bestObjLbd -110.81620277777776
+bestPi [0.25, 0.75, 0.0]
+lbd 9.89999999999998
+bestLbd 9.89999999999998
+newObjLbd -110.78420277777778
+bestObjLbd -110.78420277777778
+bestPi [0.25, 0.75, 0.0]
+lbd 9.99999999999998
+bestLbd 9.89999999999998
+newObjLbd -110.81096284722221
+bestObjLbd -110.78420277777778
+bestPi [0.30000000000000004, 0.65, 0.04999999999999993]
+bestObjLbd -110.78420277777778
+bestPi [0.30000000000000004, 0.65, 0.04999999999999993]
+bestLbd 9.89999999999998
+t= 1
+s= 3
+lbd -0.1
+bestLbd -0.1
+newObjLbd -9999
+bestObjLbd -9999
+bestPi [1.0, 0.0, 0.0]
+lbd 0.0
+bestLbd 0.0
+newObjLbd -130.0
+bestObjLbd -130.0
+bestPi [1.0, 0.0, 0.0]
+lbd 0.1
+bestLbd 0.0
+newObjLbd -130.17333333333335
+bestObjLbd -130.0
+bestPi [0.75, 0.25, 0.0]
+lbd 0.2
+bestLbd 0.0
+newObjLbd -130.24266666666665
+bestObjLbd -130.0
+bestPi [0.75, 0.25, 0.0]
+lbd 0.30000000000000004
+bestLbd 0.30000000000000004
+newObjLbd -129.86399999999998
+bestObjLbd -129.86399999999998
+bestPi [0.75, 0.25, 0.0]
+lbd 0.4
+bestLbd 0.4
+newObjLbd -129.48533333333333
+bestObjLbd -129.48533333333333
+bestPi [0.75, 0.25, 0.0]
+lbd 0.5
+bestLbd 0.5
+newObjLbd -129.10666666666668
+bestObjLbd -129.10666666666668
+bestPi [0.75, 0.25, 0.0]
+lbd 0.6
+bestLbd 0.6
+newObjLbd -128.728
+bestObjLbd -128.728
+bestPi [0.75, 0.25, 0.0]
+lbd 0.7
+bestLbd 0.7
+newObjLbd -128.34933333333333
+bestObjLbd -128.34933333333333
+bestPi [0.75, 0.25, 0.0]
+lbd 0.7999999999999999
+bestLbd 0.7999999999999999
+newObjLbd -127.97066666666667
+bestObjLbd -127.97066666666667
+bestPi [0.75, 0.25, 0.0]
+lbd 0.8999999999999999
+bestLbd 0.8999999999999999
+newObjLbd -127.59200000000001
+bestObjLbd -127.59200000000001
+bestPi [0.75, 0.25, 0.0]
+lbd 0.9999999999999999
+bestLbd 0.9999999999999999
+newObjLbd -127.21333333333332
+bestObjLbd -127.21333333333332
+bestPi [0.75, 0.25, 0.0]
+lbd 1.0999999999999999
+bestLbd 1.0999999999999999
+newObjLbd -126.83466666666666
+bestObjLbd -126.83466666666666
+bestPi [0.75, 0.25, 0.0]
+lbd 1.2
+bestLbd 1.2
+newObjLbd -126.45599999999999
+bestObjLbd -126.45599999999999
+bestPi [0.75, 0.25, 0.0]
+lbd 1.3
+bestLbd 1.3
+newObjLbd -126.07733333333333
+bestObjLbd -126.07733333333333
+bestPi [0.75, 0.25, 0.0]
+lbd 1.4000000000000001
+bestLbd 1.4000000000000001
+newObjLbd -125.69866666666667
+bestObjLbd -125.69866666666667
+bestPi [0.75, 0.25, 0.0]
+lbd 1.5000000000000002
+bestLbd 1.5000000000000002
+newObjLbd -125.32
+bestObjLbd -125.32
+bestPi [0.75, 0.25, 0.0]
+lbd 1.6000000000000003
+bestLbd 1.6000000000000003
+newObjLbd -124.94133333333332
+bestObjLbd -124.94133333333332
+bestPi [0.75, 0.25, 0.0]
+lbd 1.7000000000000004
+bestLbd 1.7000000000000004
+newObjLbd -124.56266666666667
+bestObjLbd -124.56266666666667
+bestPi [0.75, 0.25, 0.0]
+lbd 1.8000000000000005
+bestLbd 1.8000000000000005
+newObjLbd -124.184
+bestObjLbd -124.184
+bestPi [0.75, 0.25, 0.0]
+lbd 1.9000000000000006
+bestLbd 1.9000000000000006
+newObjLbd -123.82533333333333
+bestObjLbd -123.82533333333333
+bestPi [0.75, 0.25, 0.0]
+lbd 2.0000000000000004
+bestLbd 2.0000000000000004
+newObjLbd -123.52666666666669
+bestObjLbd -123.52666666666669
+bestPi [0.75, 0.25, 0.0]
+lbd 2.1000000000000005
+bestLbd 2.1000000000000005
+newObjLbd -123.228
+bestObjLbd -123.228
+bestPi [0.75, 0.25, 0.0]
+lbd 2.2000000000000006
+bestLbd 2.2000000000000006
+newObjLbd -123.01543333333333
+bestObjLbd -123.01543333333333
+bestPi [0.75, 0.25, 0.0]
+lbd 2.3000000000000007
+bestLbd 2.3000000000000007
+newObjLbd -122.87676666666667
+bestObjLbd -122.87676666666667
+bestPi [0.75, 0.25, 0.0]
+lbd 2.400000000000001
+bestLbd 2.400000000000001
+newObjLbd -122.73809999999999
+bestObjLbd -122.73809999999999
+bestPi [0.5, 0.5, 0.0]
+lbd 2.500000000000001
+bestLbd 2.500000000000001
+newObjLbd -122.53333333333335
+bestObjLbd -122.53333333333335
+bestPi [0.5, 0.5, 0.0]
+lbd 2.600000000000001
+bestLbd 2.600000000000001
+newObjLbd -122.15466666666666
+bestObjLbd -122.15466666666666
+bestPi [0.5, 0.5, 0.0]
+lbd 2.700000000000001
+bestLbd 2.700000000000001
+newObjLbd -121.776
+bestObjLbd -121.776
+bestPi [0.5, 0.5, 0.0]
+lbd 2.800000000000001
+bestLbd 2.800000000000001
+newObjLbd -121.39733333333332
+bestObjLbd -121.39733333333332
+bestPi [0.5, 0.5, 0.0]
+lbd 2.9000000000000012
+bestLbd 2.9000000000000012
+newObjLbd -121.01866666666668
+bestObjLbd -121.01866666666668
+bestPi [0.5, 0.5, 0.0]
+lbd 3.0000000000000013
+bestLbd 3.0000000000000013
+newObjLbd -120.63999999999999
+bestObjLbd -120.63999999999999
+bestPi [0.5, 0.5, 0.0]
+lbd 3.1000000000000014
+bestLbd 3.1000000000000014
+newObjLbd -120.26133333333334
+bestObjLbd -120.26133333333334
+bestPi [0.5, 0.5, 0.0]
+lbd 3.2000000000000015
+bestLbd 3.2000000000000015
+newObjLbd -119.88266666666667
+bestObjLbd -119.88266666666667
+bestPi [0.5, 0.5, 0.0]
+lbd 3.3000000000000016
+bestLbd 3.3000000000000016
+newObjLbd -119.504
+bestObjLbd -119.504
+bestPi [0.5, 0.5, 0.0]
+lbd 3.4000000000000017
+bestLbd 3.4000000000000017
+newObjLbd -119.12533333333332
+bestObjLbd -119.12533333333332
+bestPi [0.5, 0.5, 0.0]
+lbd 3.5000000000000018
+bestLbd 3.5000000000000018
+newObjLbd -118.74666666666667
+bestObjLbd -118.74666666666667
+bestPi [0.5, 0.5, 0.0]
+lbd 3.600000000000002
+bestLbd 3.600000000000002
+newObjLbd -118.368
+bestObjLbd -118.368
+bestPi [0.5, 0.5, 0.0]
+lbd 3.700000000000002
+bestLbd 3.700000000000002
+newObjLbd -117.98933333333332
+bestObjLbd -117.98933333333332
+bestPi [0.5, 0.5, 0.0]
+lbd 3.800000000000002
+bestLbd 3.800000000000002
+newObjLbd -117.65066666666665
+bestObjLbd -117.65066666666665
+bestPi [0.5, 0.5, 0.0]
+lbd 3.900000000000002
+bestLbd 3.900000000000002
+newObjLbd -117.352
+bestObjLbd -117.352
+bestPi [0.45, 0.55, 0.0]
+lbd 4.000000000000002
+bestLbd 4.000000000000002
+newObjLbd -117.05333333333333
+bestObjLbd -117.05333333333333
+bestPi [0.45, 0.55, 0.0]
+lbd 4.100000000000001
+bestLbd 4.100000000000001
+newObjLbd -116.67466666666667
+bestObjLbd -116.67466666666667
+bestPi [0.45, 0.55, 0.0]
+lbd 4.200000000000001
+bestLbd 4.200000000000001
+newObjLbd -116.35600000000002
+bestObjLbd -116.35600000000002
+bestPi [0.45, 0.55, 0.0]
+lbd 4.300000000000001
+bestLbd 4.300000000000001
+newObjLbd -116.05733333333335
+bestObjLbd -116.05733333333335
+bestPi [0.45, 0.55, 0.0]
+lbd 4.4
+bestLbd 4.4
+newObjLbd -115.75866666666668
+bestObjLbd -115.75866666666668
+bestPi [0.45, 0.55, 0.0]
+lbd 4.5
+bestLbd 4.5
+newObjLbd -115.46
+bestObjLbd -115.46
+bestPi [0.45, 0.55, 0.0]
+lbd 4.6
+bestLbd 4.6
+newObjLbd -115.16133333333333
+bestObjLbd -115.16133333333333
+bestPi [0.45, 0.55, 0.0]
+lbd 4.699999999999999
+bestLbd 4.699999999999999
+newObjLbd -114.86266666666667
+bestObjLbd -114.86266666666667
+bestPi [0.45, 0.55, 0.0]
+lbd 4.799999999999999
+bestLbd 4.799999999999999
+newObjLbd -114.68942
+bestObjLbd -114.68942
+bestPi [0.25, 0.75, 0.0]
+lbd 4.899999999999999
+bestLbd 4.899999999999999
+newObjLbd -114.44533333333334
+bestObjLbd -114.44533333333334
+bestPi [0.25, 0.75, 0.0]
+lbd 4.999999999999998
+bestLbd 4.999999999999998
+newObjLbd -114.06666666666668
+bestObjLbd -114.06666666666668
+bestPi [0.25, 0.75, 0.0]
+lbd 5.099999999999998
+bestLbd 5.099999999999998
+newObjLbd -113.68800000000003
+bestObjLbd -113.68800000000003
+bestPi [0.25, 0.75, 0.0]
+lbd 5.1999999999999975
+bestLbd 5.1999999999999975
+newObjLbd -113.30933333333334
+bestObjLbd -113.30933333333334
+bestPi [0.25, 0.75, 0.0]
+lbd 5.299999999999997
+bestLbd 5.299999999999997
+newObjLbd -112.93066666666667
+bestObjLbd -112.93066666666667
+bestPi [0.25, 0.75, 0.0]
+lbd 5.399999999999997
+bestLbd 5.399999999999997
+newObjLbd -112.55200000000002
+bestObjLbd -112.55200000000002
+bestPi [0.25, 0.75, 0.0]
+lbd 5.4999999999999964
+bestLbd 5.4999999999999964
+newObjLbd -112.17333333333335
+bestObjLbd -112.17333333333335
+bestPi [0.25, 0.75, 0.0]
+lbd 5.599999999999996
+bestLbd 5.599999999999996
+newObjLbd -111.7946666666667
+bestObjLbd -111.7946666666667
+bestPi [0.25, 0.75, 0.0]
+lbd 5.699999999999996
+bestLbd 5.699999999999996
+newObjLbd -111.47600000000003
+bestObjLbd -111.47600000000003
+bestPi [0.25, 0.75, 0.0]
+lbd 5.799999999999995
+bestLbd 5.799999999999995
+newObjLbd -111.17733333333334
+bestObjLbd -111.17733333333334
+bestPi [0.2, 0.8, 0.0]
+lbd 5.899999999999995
+bestLbd 5.899999999999995
+newObjLbd -110.8586666666667
+bestObjLbd -110.8586666666667
+bestPi [0.2, 0.8, 0.0]
+lbd 5.999999999999995
+bestLbd 5.999999999999995
+newObjLbd -110.48000000000005
+bestObjLbd -110.48000000000005
+bestPi [0.2, 0.8, 0.0]
+lbd 6.099999999999994
+bestLbd 6.099999999999994
+newObjLbd -110.18133333333336
+bestObjLbd -110.18133333333336
+bestPi [0.2, 0.8, 0.0]
+lbd 6.199999999999994
+bestLbd 6.199999999999994
+newObjLbd -109.88266666666671
+bestObjLbd -109.88266666666671
+bestPi [0.2, 0.8, 0.0]
+lbd 6.299999999999994
+bestLbd 6.299999999999994
+newObjLbd -109.58400000000002
+bestObjLbd -109.58400000000002
+bestPi [0.2, 0.8, 0.0]
+lbd 6.399999999999993
+bestLbd 6.399999999999993
+newObjLbd -109.28533333333337
+bestObjLbd -109.28533333333337
+bestPi [0.2, 0.8, 0.0]
+lbd 6.499999999999993
+bestLbd 6.499999999999993
+newObjLbd -108.98666666666671
+bestObjLbd -108.98666666666671
+bestPi [0.2, 0.8, 0.0]
+lbd 6.5999999999999925
+bestLbd 6.5999999999999925
+newObjLbd -108.68800000000002
+bestObjLbd -108.68800000000002
+bestPi [0.2, 0.8, 0.0]
+lbd 6.699999999999992
+bestLbd 6.699999999999992
+newObjLbd -108.38933333333338
+bestObjLbd -108.38933333333338
+bestPi [0.2, 0.8, 0.0]
+lbd 6.799999999999992
+bestLbd 6.799999999999992
+newObjLbd -108.0906666666667
+bestObjLbd -108.0906666666667
+bestPi [0.2, 0.8, 0.0]
+lbd 6.8999999999999915
+bestLbd 6.8999999999999915
+newObjLbd -107.84352000000001
+bestObjLbd -107.84352000000001
+bestPi [0.2, 0.8, 0.0]
+lbd 6.999999999999991
+bestLbd 6.999999999999991
+newObjLbd -107.70485333333336
+bestObjLbd -107.70485333333336
+bestPi [0.2, 0.8, 0.0]
+lbd 7.099999999999991
+bestLbd 7.099999999999991
+newObjLbd -107.56618666666668
+bestObjLbd -107.56618666666668
+bestPi [0.2, 0.8, 0.0]
+lbd 7.19999999999999
+bestLbd 7.19999999999999
+newObjLbd -107.42752000000002
+bestObjLbd -107.42752000000002
+bestPi [0.2, 0.8, 0.0]
+lbd 7.29999999999999
+bestLbd 7.29999999999999
+newObjLbd -107.28885333333335
+bestObjLbd -107.28885333333335
+bestPi [0.2, 0.8, 0.0]
+lbd 7.39999999999999
+bestLbd 7.39999999999999
+newObjLbd -107.15018666666668
+bestObjLbd -107.15018666666668
+bestPi [0.2, 0.8, 0.0]
+lbd 7.499999999999989
+bestLbd 7.499999999999989
+newObjLbd -107.01152000000003
+bestObjLbd -107.01152000000003
+bestPi [0.2, 0.8, 0.0]
+lbd 7.599999999999989
+bestLbd 7.599999999999989
+newObjLbd -106.87285333333335
+bestObjLbd -106.87285333333335
+bestPi [0.2, 0.8, 0.0]
+lbd 7.699999999999989
+bestLbd 7.699999999999989
+newObjLbd -106.73418666666669
+bestObjLbd -106.73418666666669
+bestPi [0.2, 0.8, 0.0]
+lbd 7.799999999999988
+bestLbd 7.799999999999988
+newObjLbd -106.59552000000002
+bestObjLbd -106.59552000000002
+bestPi [0.2, 0.8, 0.0]
+lbd 7.899999999999988
+bestLbd 7.899999999999988
+newObjLbd -106.45685333333334
+bestObjLbd -106.45685333333334
+bestPi [0.2, 0.8, 0.0]
+lbd 7.999999999999988
+bestLbd 7.999999999999988
+newObjLbd -106.37580944444446
+bestObjLbd -106.37580944444446
+bestPi [0.2, 0.8, 0.0]
+lbd 8.099999999999987
+bestLbd 8.099999999999987
+newObjLbd -106.36380944444446
+bestObjLbd -106.36380944444446
+bestPi [0.2, 0.8, 0.0]
+lbd 8.199999999999987
+bestLbd 8.199999999999987
+newObjLbd -106.35180944444446
+bestObjLbd -106.35180944444446
+bestPi [0.2, 0.8, 0.0]
+lbd 8.299999999999986
+bestLbd 8.299999999999986
+newObjLbd -106.33980944444446
+bestObjLbd -106.33980944444446
+bestPi [0.2, 0.8, 0.0]
+lbd 8.399999999999986
+bestLbd 8.399999999999986
+newObjLbd -106.32780944444445
+bestObjLbd -106.32780944444445
+bestPi [0.2, 0.8, 0.0]
+lbd 8.499999999999986
+bestLbd 8.499999999999986
+newObjLbd -106.31580944444445
+bestObjLbd -106.31580944444445
+bestPi [0.2, 0.8, 0.0]
+lbd 8.599999999999985
+bestLbd 8.599999999999985
+newObjLbd -106.30380944444445
+bestObjLbd -106.30380944444445
+bestPi [0.2, 0.8, 0.0]
+lbd 8.699999999999985
+bestLbd 8.599999999999985
+newObjLbd -106.34469957777777
+bestObjLbd -106.30380944444445
+bestPi [0.2, 0.8, 0.0]
+lbd 8.799999999999985
+bestLbd 8.599999999999985
+newObjLbd -106.42603291111112
+bestObjLbd -106.30380944444445
+bestPi [0.2, 0.8, 0.0]
+lbd 8.899999999999984
+bestLbd 8.599999999999985
+newObjLbd -106.50736624444446
+bestObjLbd -106.30380944444445
+bestPi [0.25, 0.75, 0.0]
+lbd 8.999999999999984
+bestLbd 8.599999999999985
+newObjLbd -106.5802911875
+bestObjLbd -106.30380944444445
+bestPi [0.25, 0.75, 0.0]
+lbd 9.099999999999984
+bestLbd 8.599999999999985
+newObjLbd -106.58362452083334
+bestObjLbd -106.30380944444445
+bestPi [0.25, 0.75, 0.0]
+lbd 9.199999999999983
+bestLbd 8.599999999999985
+newObjLbd -106.58695785416667
+bestObjLbd -106.30380944444445
+bestPi [0.25, 0.75, 0.0]
+lbd 9.299999999999983
+bestLbd 8.599999999999985
+newObjLbd -106.5902911875
+bestObjLbd -106.30380944444445
+bestPi [0.25, 0.75, 0.0]
+lbd 9.399999999999983
+bestLbd 8.599999999999985
+newObjLbd -106.59362452083334
+bestObjLbd -106.30380944444445
+bestPi [0.25, 0.75, 0.0]
+lbd 9.499999999999982
+bestLbd 8.599999999999985
+newObjLbd -106.59695785416666
+bestObjLbd -106.30380944444445
+bestPi [0.25, 0.75, 0.0]
+lbd 9.599999999999982
+bestLbd 8.599999999999985
+newObjLbd -106.6002911875
+bestObjLbd -106.30380944444445
+bestPi [0.25, 0.75, 0.0]
+lbd 9.699999999999982
+bestLbd 8.599999999999985
+newObjLbd -106.60362452083334
+bestObjLbd -106.30380944444445
+bestPi [0.25, 0.75, 0.0]
+lbd 9.799999999999981
+bestLbd 8.599999999999985
+newObjLbd -106.60695785416667
+bestObjLbd -106.30380944444445
+bestPi [0.25, 0.75, 0.0]
+lbd 9.89999999999998
+bestLbd 8.599999999999985
+newObjLbd -106.61029118750001
+bestObjLbd -106.30380944444445
+bestPi [0.25, 0.75, 0.0]
+lbd 9.99999999999998
+bestLbd 8.599999999999985
+newObjLbd -106.68565299305554
+bestObjLbd -106.30380944444445
+bestPi [0.25, 0.75, 0.0]
+bestObjLbd -106.30380944444445
+bestPi [0.25, 0.75, 0.0]
+bestLbd 8.599999999999985
+t= 1
+s= 4
+lbd -0.1
+bestLbd -0.1
+newObjLbd -9999
+bestObjLbd -9999
+bestPi [0.0, 0.0, 1.0]
+lbd 0.0
+bestLbd 0.0
+newObjLbd -180.0
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 0.1
+bestLbd 0.0
+newObjLbd -180.10133333333334
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 0.2
+bestLbd 0.0
+newObjLbd -180.20266666666666
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 0.30000000000000004
+bestLbd 0.0
+newObjLbd -180.304
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 0.4
+bestLbd 0.0
+newObjLbd -180.40533333333332
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 0.5
+bestLbd 0.0
+newObjLbd -180.50666666666666
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 0.6
+bestLbd 0.0
+newObjLbd -180.608
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 0.7
+bestLbd 0.0
+newObjLbd -180.70933333333332
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 0.7999999999999999
+bestLbd 0.0
+newObjLbd -180.81066666666666
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 0.8999999999999999
+bestLbd 0.0
+newObjLbd -180.91199999999998
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 0.9999999999999999
+bestLbd 0.0
+newObjLbd -181.01333333333332
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 1.0999999999999999
+bestLbd 0.0
+newObjLbd -181.11466666666666
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 1.2
+bestLbd 0.0
+newObjLbd -181.21599999999998
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 1.3
+bestLbd 0.0
+newObjLbd -181.31733333333332
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 1.4000000000000001
+bestLbd 0.0
+newObjLbd -181.41866666666664
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 1.5000000000000002
+bestLbd 0.0
+newObjLbd -181.51999999999998
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 1.6000000000000003
+bestLbd 0.0
+newObjLbd -181.62133333333335
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 1.7000000000000004
+bestLbd 0.0
+newObjLbd -181.72266666666664
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 1.8000000000000005
+bestLbd 0.0
+newObjLbd -181.82399999999998
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 1.9000000000000006
+bestLbd 0.0
+newObjLbd -181.9253333333333
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 2.0000000000000004
+bestLbd 0.0
+newObjLbd -182.02666666666664
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 2.1000000000000005
+bestLbd 0.0
+newObjLbd -182.12800000000001
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 2.2000000000000006
+bestLbd 0.0
+newObjLbd -182.2293333333333
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 2.3000000000000007
+bestLbd 0.0
+newObjLbd -182.33066666666667
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 2.400000000000001
+bestLbd 0.0
+newObjLbd -182.43199999999996
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 2.500000000000001
+bestLbd 0.0
+newObjLbd -182.53333333333333
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 2.600000000000001
+bestLbd 0.0
+newObjLbd -182.63466666666667
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 2.700000000000001
+bestLbd 0.0
+newObjLbd -182.736
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 2.800000000000001
+bestLbd 0.0
+newObjLbd -182.83733333333333
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 2.9000000000000012
+bestLbd 0.0
+newObjLbd -182.93866666666668
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 3.0000000000000013
+bestLbd 0.0
+newObjLbd -183.04
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 3.1000000000000014
+bestLbd 0.0
+newObjLbd -183.14133333333334
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 3.2000000000000015
+bestLbd 0.0
+newObjLbd -183.24266666666665
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 3.3000000000000016
+bestLbd 0.0
+newObjLbd -183.34399999999997
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 3.4000000000000017
+bestLbd 0.0
+newObjLbd -183.44533333333334
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 3.5000000000000018
+bestLbd 0.0
+newObjLbd -183.54666666666665
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 3.600000000000002
+bestLbd 0.0
+newObjLbd -183.64800000000005
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 3.700000000000002
+bestLbd 0.0
+newObjLbd -183.7493333333333
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 3.800000000000002
+bestLbd 0.0
+newObjLbd -183.85066666666665
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 3.900000000000002
+bestLbd 0.0
+newObjLbd -183.952
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 4.000000000000002
+bestLbd 0.0
+newObjLbd -184.0533333333333
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 4.100000000000001
+bestLbd 0.0
+newObjLbd -184.1546666666667
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 4.200000000000001
+bestLbd 0.0
+newObjLbd -184.25599999999997
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 4.300000000000001
+bestLbd 0.0
+newObjLbd -184.35733333333337
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 4.4
+bestLbd 0.0
+newObjLbd -184.45866666666663
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 4.5
+bestLbd 0.0
+newObjLbd -184.56000000000003
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 4.6
+bestLbd 0.0
+newObjLbd -184.66133333333337
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 4.699999999999999
+bestLbd 0.0
+newObjLbd -184.7626666666667
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 4.799999999999999
+bestLbd 0.0
+newObjLbd -184.864
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 4.899999999999999
+bestLbd 0.0
+newObjLbd -184.96533333333332
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 4.999999999999998
+bestLbd 0.0
+newObjLbd -185.06666666666666
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 5.099999999999998
+bestLbd 0.0
+newObjLbd -185.168
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 5.1999999999999975
+bestLbd 0.0
+newObjLbd -185.26933333333335
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 5.299999999999997
+bestLbd 0.0
+newObjLbd -185.3706666666667
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 5.399999999999997
+bestLbd 0.0
+newObjLbd -185.47199999999998
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 5.4999999999999964
+bestLbd 0.0
+newObjLbd -185.57333333333335
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 5.599999999999996
+bestLbd 0.0
+newObjLbd -185.67466666666667
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 5.699999999999996
+bestLbd 0.0
+newObjLbd -185.776
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 5.799999999999995
+bestLbd 0.0
+newObjLbd -185.87733333333333
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 5.899999999999995
+bestLbd 0.0
+newObjLbd -185.97866666666667
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 5.999999999999995
+bestLbd 0.0
+newObjLbd -186.07999999999998
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 6.099999999999994
+bestLbd 0.0
+newObjLbd -186.18133333333333
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 6.199999999999994
+bestLbd 0.0
+newObjLbd -186.28266666666667
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 6.299999999999994
+bestLbd 0.0
+newObjLbd -186.38400000000001
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 6.399999999999993
+bestLbd 0.0
+newObjLbd -186.48533333333333
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 6.499999999999993
+bestLbd 0.0
+newObjLbd -186.58666666666664
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 6.5999999999999925
+bestLbd 0.0
+newObjLbd -186.688
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 6.699999999999992
+bestLbd 0.0
+newObjLbd -186.78933333333333
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 6.799999999999992
+bestLbd 0.0
+newObjLbd -186.89066666666668
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 6.8999999999999915
+bestLbd 0.0
+newObjLbd -186.99199999999996
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 6.999999999999991
+bestLbd 0.0
+newObjLbd -187.0933333333333
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 7.099999999999991
+bestLbd 0.0
+newObjLbd -187.19466666666665
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 7.19999999999999
+bestLbd 0.0
+newObjLbd -187.296
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 7.29999999999999
+bestLbd 0.0
+newObjLbd -187.39733333333334
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 7.39999999999999
+bestLbd 0.0
+newObjLbd -187.49866666666665
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 7.499999999999989
+bestLbd 0.0
+newObjLbd -187.6
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 7.599999999999989
+bestLbd 0.0
+newObjLbd -187.7013333333333
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 7.699999999999989
+bestLbd 0.0
+newObjLbd -187.80266666666665
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 7.799999999999988
+bestLbd 0.0
+newObjLbd -187.904
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 7.899999999999988
+bestLbd 0.0
+newObjLbd -188.00533333333334
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 7.999999999999988
+bestLbd 0.0
+newObjLbd -188.10666666666665
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 8.099999999999987
+bestLbd 0.0
+newObjLbd -188.20799999999997
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 8.199999999999987
+bestLbd 0.0
+newObjLbd -188.3093333333333
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 8.299999999999986
+bestLbd 0.0
+newObjLbd -188.41066666666666
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 8.399999999999986
+bestLbd 0.0
+newObjLbd -188.512
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 8.499999999999986
+bestLbd 0.0
+newObjLbd -188.61333333333334
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 8.599999999999985
+bestLbd 0.0
+newObjLbd -188.71466666666666
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 8.699999999999985
+bestLbd 0.0
+newObjLbd -188.816
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 8.799999999999985
+bestLbd 0.0
+newObjLbd -188.91733333333332
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 8.899999999999984
+bestLbd 0.0
+newObjLbd -189.01866666666666
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 8.999999999999984
+bestLbd 0.0
+newObjLbd -189.11999999999998
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 9.099999999999984
+bestLbd 0.0
+newObjLbd -189.22133333333332
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 9.199999999999983
+bestLbd 0.0
+newObjLbd -189.32266666666663
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 9.299999999999983
+bestLbd 0.0
+newObjLbd -189.42399999999998
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 9.399999999999983
+bestLbd 0.0
+newObjLbd -189.52533333333332
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 9.499999999999982
+bestLbd 0.0
+newObjLbd -189.62666666666667
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 9.599999999999982
+bestLbd 0.0
+newObjLbd -189.72799999999998
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 9.699999999999982
+bestLbd 0.0
+newObjLbd -189.8293333333333
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 9.799999999999981
+bestLbd 0.0
+newObjLbd -189.93066666666664
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 9.89999999999998
+bestLbd 0.0
+newObjLbd -190.03199999999995
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+lbd 9.99999999999998
+bestLbd 0.0
+newObjLbd -190.13333333333333
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+bestObjLbd -180.0
+bestPi [0.0, 0.0, 1.0]
+bestLbd 0.0
+in mainConcave!!!!!
+t= 0
+s= 0
+bestPi [1.0, 0.0, 0.0]
+lbd -0.1
+bestLbd -0.1
+newObjLbd -9999
+bestObjLbd -9999
+lbd 0.0
+bestLbd 0.0
+newObjLbd -80.0
+bestObjLbd -80.0
+bestObjLbd -80.0
+bestLbd 0.0
+t= 0
+s= 1
+bestPi [0.75, 0.25, 0.0]
+lbd -0.1
+bestLbd -0.1
+newObjLbd -9999
+bestObjLbd -9999
+lbd 0.0
+bestLbd 0.0
+newObjLbd -80.5
+bestObjLbd -80.5
+lbd 0.1
+bestLbd 0.1
+newObjLbd -80.418
+bestObjLbd -80.418
+lbd 0.2
+bestLbd 0.2
+newObjLbd -80.336
+bestObjLbd -80.336
+lbd 0.30000000000000004
+bestLbd 0.30000000000000004
+newObjLbd -80.254
+bestObjLbd -80.254
+lbd 0.4
+bestLbd 0.4
+newObjLbd -80.172
+bestObjLbd -80.172
+lbd 0.5
+bestLbd 0.5
+newObjLbd -80.08999999999999
+bestObjLbd -80.08999999999999
+lbd 0.6
+bestLbd 0.6
+newObjLbd -80.008
+bestObjLbd -80.008
+lbd 0.7
+bestLbd 0.7
+newObjLbd -79.926
+bestObjLbd -79.926
+lbd 0.7999999999999999
+bestLbd 0.7999999999999999
+newObjLbd -79.84400000000001
+bestObjLbd -79.84400000000001
+lbd 0.8999999999999999
+bestLbd 0.8999999999999999
+newObjLbd -79.762
+bestObjLbd -79.762
+lbd 0.9999999999999999
+bestLbd 0.9999999999999999
+newObjLbd -79.68
+bestObjLbd -79.68
+lbd 1.0999999999999999
+bestLbd 1.0999999999999999
+newObjLbd -79.598
+bestObjLbd -79.598
+lbd 1.2
+bestLbd 1.2
+newObjLbd -79.51599999999999
+bestObjLbd -79.51599999999999
+lbd 1.3
+bestLbd 1.3
+newObjLbd -79.43400000000001
+bestObjLbd -79.43400000000001
+lbd 1.4000000000000001
+bestLbd 1.4000000000000001
+newObjLbd -79.352
+bestObjLbd -79.352
+lbd 1.5000000000000002
+bestLbd 1.5000000000000002
+newObjLbd -79.27
+bestObjLbd -79.27
+lbd 1.6000000000000003
+bestLbd 1.6000000000000003
+newObjLbd -79.18799999999999
+bestObjLbd -79.18799999999999
+lbd 1.7000000000000004
+bestLbd 1.7000000000000004
+newObjLbd -79.106
+bestObjLbd -79.106
+lbd 1.8000000000000005
+bestLbd 1.8000000000000005
+newObjLbd -79.024
+bestObjLbd -79.024
+lbd 1.9000000000000006
+bestLbd 1.9000000000000006
+newObjLbd -78.94200000000001
+bestObjLbd -78.94200000000001
+lbd 2.0000000000000004
+bestLbd 2.0000000000000004
+newObjLbd -78.86
+bestObjLbd -78.86
+lbd 2.1000000000000005
+bestLbd 2.1000000000000005
+newObjLbd -78.77799999999999
+bestObjLbd -78.77799999999999
+lbd 2.2000000000000006
+bestLbd 2.2000000000000006
+newObjLbd -78.696
+bestObjLbd -78.696
+lbd 2.3000000000000007
+bestLbd 2.3000000000000007
+newObjLbd -78.614
+bestObjLbd -78.614
+lbd 2.400000000000001
+bestLbd 2.400000000000001
+newObjLbd -78.532
+bestObjLbd -78.532
+lbd 2.500000000000001
+bestLbd 2.500000000000001
+newObjLbd -78.45
+bestObjLbd -78.45
+lbd 2.600000000000001
+bestLbd 2.600000000000001
+newObjLbd -78.368
+bestObjLbd -78.368
+lbd 2.700000000000001
+bestLbd 2.700000000000001
+newObjLbd -78.286
+bestObjLbd -78.286
+lbd 2.800000000000001
+bestLbd 2.800000000000001
+newObjLbd -78.204
+bestObjLbd -78.204
+lbd 2.9000000000000012
+bestLbd 2.9000000000000012
+newObjLbd -78.12199999999999
+bestObjLbd -78.12199999999999
+lbd 3.0000000000000013
+bestLbd 3.0000000000000013
+newObjLbd -78.03999999999999
+bestObjLbd -78.03999999999999
+lbd 3.1000000000000014
+bestLbd 3.1000000000000014
+newObjLbd -77.958
+bestObjLbd -77.958
+lbd 3.2000000000000015
+bestLbd 3.2000000000000015
+newObjLbd -77.876
+bestObjLbd -77.876
+lbd 3.3000000000000016
+bestLbd 3.3000000000000016
+newObjLbd -77.794
+bestObjLbd -77.794
+lbd 3.4000000000000017
+bestLbd 3.4000000000000017
+newObjLbd -77.712
+bestObjLbd -77.712
+lbd 3.5000000000000018
+bestLbd 3.5000000000000018
+newObjLbd -77.63
+bestObjLbd -77.63
+lbd 3.600000000000002
+bestLbd 3.600000000000002
+newObjLbd -77.548
+bestObjLbd -77.548
+lbd 3.700000000000002
+bestLbd 3.700000000000002
+newObjLbd -77.46600000000001
+bestObjLbd -77.46600000000001
+lbd 3.800000000000002
+bestLbd 3.800000000000002
+newObjLbd -77.384
+bestObjLbd -77.384
+lbd 3.900000000000002
+bestLbd 3.900000000000002
+newObjLbd -77.30199999999999
+bestObjLbd -77.30199999999999
+lbd 4.000000000000002
+bestLbd 4.000000000000002
+newObjLbd -77.22
+bestObjLbd -77.22
+lbd 4.100000000000001
+bestLbd 4.100000000000001
+newObjLbd -77.13799999999998
+bestObjLbd -77.13799999999998
+lbd 4.200000000000001
+bestLbd 4.200000000000001
+newObjLbd -77.05600000000001
+bestObjLbd -77.05600000000001
+lbd 4.300000000000001
+bestLbd 4.300000000000001
+newObjLbd -76.974
+bestObjLbd -76.974
+lbd 4.4
+bestLbd 4.4
+newObjLbd -76.892
+bestObjLbd -76.892
+lbd 4.5
+bestLbd 4.5
+newObjLbd -76.81
+bestObjLbd -76.81
+lbd 4.6
+bestLbd 4.6
+newObjLbd -76.72800000000001
+bestObjLbd -76.72800000000001
+lbd 4.699999999999999
+bestLbd 4.699999999999999
+newObjLbd -76.646
+bestObjLbd -76.646
+lbd 4.799999999999999
+bestLbd 4.799999999999999
+newObjLbd -76.56400000000001
+bestObjLbd -76.56400000000001
+lbd 4.899999999999999
+bestLbd 4.899999999999999
+newObjLbd -76.482
+bestObjLbd -76.482
+lbd 4.999999999999998
+bestLbd 4.999999999999998
+newObjLbd -76.4
+bestObjLbd -76.4
+lbd 5.099999999999998
+bestLbd 5.099999999999998
+newObjLbd -76.318
+bestObjLbd -76.318
+lbd 5.1999999999999975
+bestLbd 5.1999999999999975
+newObjLbd -76.23599999999999
+bestObjLbd -76.23599999999999
+lbd 5.299999999999997
+bestLbd 5.299999999999997
+newObjLbd -76.15400000000001
+bestObjLbd -76.15400000000001
+lbd 5.399999999999997
+bestLbd 5.399999999999997
+newObjLbd -76.072
+bestObjLbd -76.072
+lbd 5.4999999999999964
+bestLbd 5.4999999999999964
+newObjLbd -75.99
+bestObjLbd -75.99
+lbd 5.599999999999996
+bestLbd 5.599999999999996
+newObjLbd -75.908
+bestObjLbd -75.908
+lbd 5.699999999999996
+bestLbd 5.699999999999996
+newObjLbd -75.82600000000001
+bestObjLbd -75.82600000000001
+lbd 5.799999999999995
+bestLbd 5.799999999999995
+newObjLbd -75.744
+bestObjLbd -75.744
+lbd 5.899999999999995
+bestLbd 5.899999999999995
+newObjLbd -75.662
+bestObjLbd -75.662
+lbd 5.999999999999995
+bestLbd 5.999999999999995
+newObjLbd -75.58000000000001
+bestObjLbd -75.58000000000001
+lbd 6.099999999999994
+bestLbd 6.099999999999994
+newObjLbd -75.49799999999999
+bestObjLbd -75.49799999999999
+lbd 6.199999999999994
+bestLbd 6.199999999999994
+newObjLbd -75.41600000000001
+bestObjLbd -75.41600000000001
+lbd 6.299999999999994
+bestLbd 6.299999999999994
+newObjLbd -75.334
+bestObjLbd -75.334
+lbd 6.399999999999993
+bestLbd 6.399999999999993
+newObjLbd -75.25200000000001
+bestObjLbd -75.25200000000001
+lbd 6.499999999999993
+bestLbd 6.499999999999993
+newObjLbd -75.17
+bestObjLbd -75.17
+lbd 6.5999999999999925
+bestLbd 6.5999999999999925
+newObjLbd -75.08800000000001
+bestObjLbd -75.08800000000001
+lbd 6.699999999999992
+bestLbd 6.699999999999992
+newObjLbd -75.00600000000001
+bestObjLbd -75.00600000000001
+lbd 6.799999999999992
+bestLbd 6.799999999999992
+newObjLbd -74.924
+bestObjLbd -74.924
+lbd 6.8999999999999915
+bestLbd 6.8999999999999915
+newObjLbd -74.84200000000001
+bestObjLbd -74.84200000000001
+lbd 6.999999999999991
+bestLbd 6.999999999999991
+newObjLbd -74.76000000000002
+bestObjLbd -74.76000000000002
+lbd 7.099999999999991
+bestLbd 7.099999999999991
+newObjLbd -74.67800000000001
+bestObjLbd -74.67800000000001
+lbd 7.19999999999999
+bestLbd 7.19999999999999
+newObjLbd -74.596
+bestObjLbd -74.596
+lbd 7.29999999999999
+bestLbd 7.29999999999999
+newObjLbd -74.51400000000001
+bestObjLbd -74.51400000000001
+lbd 7.39999999999999
+bestLbd 7.39999999999999
+newObjLbd -74.432
+bestObjLbd -74.432
+lbd 7.499999999999989
+bestLbd 7.499999999999989
+newObjLbd -74.35000000000001
+bestObjLbd -74.35000000000001
+lbd 7.599999999999989
+bestLbd 7.599999999999989
+newObjLbd -74.26800000000001
+bestObjLbd -74.26800000000001
+lbd 7.699999999999989
+bestLbd 7.699999999999989
+newObjLbd -74.186
+bestObjLbd -74.186
+lbd 7.799999999999988
+bestLbd 7.799999999999988
+newObjLbd -74.10400000000001
+bestObjLbd -74.10400000000001
+lbd 7.899999999999988
+bestLbd 7.899999999999988
+newObjLbd -74.02200000000002
+bestObjLbd -74.02200000000002
+lbd 7.999999999999988
+bestLbd 7.999999999999988
+newObjLbd -73.94000000000003
+bestObjLbd -73.94000000000003
+lbd 8.099999999999987
+bestLbd 8.099999999999987
+newObjLbd -73.858
+bestObjLbd -73.858
+lbd 8.199999999999987
+bestLbd 8.199999999999987
+newObjLbd -73.77600000000001
+bestObjLbd -73.77600000000001
+lbd 8.299999999999986
+bestLbd 8.299999999999986
+newObjLbd -73.69400000000002
+bestObjLbd -73.69400000000002
+lbd 8.399999999999986
+bestLbd 8.399999999999986
+newObjLbd -73.61200000000002
+bestObjLbd -73.61200000000002
+lbd 8.499999999999986
+bestLbd 8.499999999999986
+newObjLbd -73.53000000000002
+bestObjLbd -73.53000000000002
+lbd 8.599999999999985
+bestLbd 8.599999999999985
+newObjLbd -73.44800000000001
+bestObjLbd -73.44800000000001
+lbd 8.699999999999985
+bestLbd 8.699999999999985
+newObjLbd -73.36600000000001
+bestObjLbd -73.36600000000001
+lbd 8.799999999999985
+bestLbd 8.799999999999985
+newObjLbd -73.28400000000002
+bestObjLbd -73.28400000000002
+lbd 8.899999999999984
+bestLbd 8.899999999999984
+newObjLbd -73.20200000000003
+bestObjLbd -73.20200000000003
+lbd 8.999999999999984
+bestLbd 8.999999999999984
+newObjLbd -73.12
+bestObjLbd -73.12
+lbd 9.099999999999984
+bestLbd 9.099999999999984
+newObjLbd -73.03800000000001
+bestObjLbd -73.03800000000001
+lbd 9.199999999999983
+bestLbd 9.199999999999983
+newObjLbd -72.96750000000002
+bestObjLbd -72.96750000000002
+lbd 9.299999999999983
+bestLbd 9.299999999999983
+newObjLbd -72.90083333333334
+bestObjLbd -72.90083333333334
+lbd 9.399999999999983
+bestLbd 9.399999999999983
+newObjLbd -72.84166666666667
+bestObjLbd -72.84166666666667
+lbd 9.499999999999982
+bestLbd 9.499999999999982
+newObjLbd -72.805
+bestObjLbd -72.805
+lbd 9.599999999999982
+bestLbd 9.599999999999982
+newObjLbd -72.76833333333335
+bestObjLbd -72.76833333333335
+bestObjLbd -72.76833333333335
+bestLbd 9.599999999999982
+t= 0
+s= 2
+bestPi [0.75, 0.25, 0.0]
+lbd -0.1
+bestLbd -0.1
+newObjLbd -9999
+bestObjLbd -9999
+lbd 0.0
+bestLbd 0.0
+newObjLbd -80.75
+bestObjLbd -80.75
+lbd 0.1
+bestLbd 0.1
+newObjLbd -80.49799999999999
+bestObjLbd -80.49799999999999
+lbd 0.2
+bestLbd 0.2
+newObjLbd -80.246
+bestObjLbd -80.246
+lbd 0.30000000000000004
+bestLbd 0.30000000000000004
+newObjLbd -79.994
+bestObjLbd -79.994
+lbd 0.4
+bestLbd 0.4
+newObjLbd -79.742
+bestObjLbd -79.742
+lbd 0.5
+bestLbd 0.5
+newObjLbd -79.49
+bestObjLbd -79.49
+lbd 0.6
+bestLbd 0.6
+newObjLbd -79.238
+bestObjLbd -79.238
+lbd 0.7
+bestLbd 0.7
+newObjLbd -78.986
+bestObjLbd -78.986
+lbd 0.7999999999999999
+bestLbd 0.7999999999999999
+newObjLbd -78.73400000000001
+bestObjLbd -78.73400000000001
+lbd 0.8999999999999999
+bestLbd 0.8999999999999999
+newObjLbd -78.482
+bestObjLbd -78.482
+lbd 0.9999999999999999
+bestLbd 0.9999999999999999
+newObjLbd -78.23
+bestObjLbd -78.23
+lbd 1.0999999999999999
+bestLbd 1.0999999999999999
+newObjLbd -77.978
+bestObjLbd -77.978
+lbd 1.2
+bestLbd 1.2
+newObjLbd -77.72599999999998
+bestObjLbd -77.72599999999998
+lbd 1.3
+bestLbd 1.3
+newObjLbd -77.474
+bestObjLbd -77.474
+lbd 1.4000000000000001
+bestLbd 1.4000000000000001
+newObjLbd -77.222
+bestObjLbd -77.222
+lbd 1.5000000000000002
+bestLbd 1.5000000000000002
+newObjLbd -76.96999999999998
+bestObjLbd -76.96999999999998
+lbd 1.6000000000000003
+bestLbd 1.6000000000000003
+newObjLbd -76.71799999999999
+bestObjLbd -76.71799999999999
+lbd 1.7000000000000004
+bestLbd 1.7000000000000004
+newObjLbd -76.46600000000001
+bestObjLbd -76.46600000000001
+lbd 1.8000000000000005
+bestLbd 1.8000000000000005
+newObjLbd -76.21400000000001
+bestObjLbd -76.21400000000001
+lbd 1.9000000000000006
+bestLbd 1.9000000000000006
+newObjLbd -75.962
+bestObjLbd -75.962
+lbd 2.0000000000000004
+bestLbd 2.0000000000000004
+newObjLbd -75.71
+bestObjLbd -75.71
+lbd 2.1000000000000005
+bestLbd 2.1000000000000005
+newObjLbd -75.458
+bestObjLbd -75.458
+lbd 2.2000000000000006
+bestLbd 2.2000000000000006
+newObjLbd -75.20599999999999
+bestObjLbd -75.20599999999999
+lbd 2.3000000000000007
+bestLbd 2.3000000000000007
+newObjLbd -74.954
+bestObjLbd -74.954
+lbd 2.400000000000001
+bestLbd 2.400000000000001
+newObjLbd -74.702
+bestObjLbd -74.702
+lbd 2.500000000000001
+bestLbd 2.500000000000001
+newObjLbd -74.45
+bestObjLbd -74.45
+lbd 2.600000000000001
+bestLbd 2.600000000000001
+newObjLbd -74.198
+bestObjLbd -74.198
+lbd 2.700000000000001
+bestLbd 2.700000000000001
+newObjLbd -73.946
+bestObjLbd -73.946
+lbd 2.800000000000001
+bestLbd 2.800000000000001
+newObjLbd -73.694
+bestObjLbd -73.694
+lbd 2.9000000000000012
+bestLbd 2.9000000000000012
+newObjLbd -73.442
+bestObjLbd -73.442
+lbd 3.0000000000000013
+bestLbd 3.0000000000000013
+newObjLbd -73.18999999999998
+bestObjLbd -73.18999999999998
+lbd 3.1000000000000014
+bestLbd 3.1000000000000014
+newObjLbd -72.938
+bestObjLbd -72.938
+lbd 3.2000000000000015
+bestLbd 3.2000000000000015
+newObjLbd -72.68599999999999
+bestObjLbd -72.68599999999999
+lbd 3.3000000000000016
+bestLbd 3.3000000000000016
+newObjLbd -72.434
+bestObjLbd -72.434
+lbd 3.4000000000000017
+bestLbd 3.4000000000000017
+newObjLbd -72.182
+bestObjLbd -72.182
+lbd 3.5000000000000018
+bestLbd 3.5000000000000018
+newObjLbd -71.92999999999999
+bestObjLbd -71.92999999999999
+lbd 3.600000000000002
+bestLbd 3.600000000000002
+newObjLbd -71.678
+bestObjLbd -71.678
+lbd 3.700000000000002
+bestLbd 3.700000000000002
+newObjLbd -71.43366666666667
+bestObjLbd -71.43366666666667
+lbd 3.800000000000002
+bestLbd 3.800000000000002
+newObjLbd -71.21199999999999
+bestObjLbd -71.21199999999999
+lbd 3.900000000000002
+bestLbd 3.900000000000002
+newObjLbd -71.04199999999999
+bestObjLbd -71.04199999999999
+lbd 4.000000000000002
+bestLbd 4.000000000000002
+newObjLbd -70.94866666666667
+bestObjLbd -70.94866666666667
+lbd 4.100000000000001
+bestLbd 4.100000000000001
+newObjLbd -70.89533333333333
+bestObjLbd -70.89533333333333
+lbd 4.200000000000001
+bestLbd 4.200000000000001
+newObjLbd -70.842
+bestObjLbd -70.842
+lbd 4.300000000000001
+bestLbd 4.300000000000001
+newObjLbd -70.78866666666667
+bestObjLbd -70.78866666666667
+lbd 4.4
+bestLbd 4.4
+newObjLbd -70.73533333333333
+bestObjLbd -70.73533333333333
+lbd 4.5
+bestLbd 4.5
+newObjLbd -70.68199999999999
+bestObjLbd -70.68199999999999
+lbd 4.6
+bestLbd 4.6
+newObjLbd -70.62866666666666
+bestObjLbd -70.62866666666666
+lbd 4.699999999999999
+bestLbd 4.699999999999999
+newObjLbd -70.57533333333333
+bestObjLbd -70.57533333333333
+lbd 4.799999999999999
+bestLbd 4.799999999999999
+newObjLbd -70.52199999999999
+bestObjLbd -70.52199999999999
+lbd 4.899999999999999
+bestLbd 4.899999999999999
+newObjLbd -70.46866666666666
+bestObjLbd -70.46866666666666
+lbd 4.999999999999998
+bestLbd 4.999999999999998
+newObjLbd -70.41533333333334
+bestObjLbd -70.41533333333334
+lbd 5.099999999999998
+bestLbd 5.099999999999998
+newObjLbd -70.36200000000001
+bestObjLbd -70.36200000000001
+lbd 5.1999999999999975
+bestLbd 5.1999999999999975
+newObjLbd -70.30866666666667
+bestObjLbd -70.30866666666667
+lbd 5.299999999999997
+bestLbd 5.299999999999997
+newObjLbd -70.25533333333334
+bestObjLbd -70.25533333333334
+lbd 5.399999999999997
+bestLbd 5.399999999999997
+newObjLbd -70.202
+bestObjLbd -70.202
+lbd 5.4999999999999964
+bestLbd 5.4999999999999964
+newObjLbd -70.15700000000001
+bestObjLbd -70.15700000000001
+lbd 5.599999999999996
+bestLbd 5.599999999999996
+newObjLbd -70.137
+bestObjLbd -70.137
+bestObjLbd -70.137
+bestLbd 5.599999999999996
+t= 0
+s= 3
+bestPi [0.75, 0.25, 0.0]
+lbd -0.1
+bestLbd -0.1
+newObjLbd -9999
+bestObjLbd -9999
+lbd 0.0
+bestLbd 0.0
+newObjLbd -81.0
+bestObjLbd -81.0
+lbd 0.1
+bestLbd 0.1
+newObjLbd -80.62133333333333
+bestObjLbd -80.62133333333333
+lbd 0.2
+bestLbd 0.2
+newObjLbd -80.24266666666666
+bestObjLbd -80.24266666666666
+lbd 0.30000000000000004
+bestLbd 0.30000000000000004
+newObjLbd -79.864
+bestObjLbd -79.864
+lbd 0.4
+bestLbd 0.4
+newObjLbd -79.48533333333333
+bestObjLbd -79.48533333333333
+lbd 0.5
+bestLbd 0.5
+newObjLbd -79.10666666666667
+bestObjLbd -79.10666666666667
+lbd 0.6
+bestLbd 0.6
+newObjLbd -78.728
+bestObjLbd -78.728
+lbd 0.7
+bestLbd 0.7
+newObjLbd -78.34933333333332
+bestObjLbd -78.34933333333332
+lbd 0.7999999999999999
+bestLbd 0.7999999999999999
+newObjLbd -77.97066666666667
+bestObjLbd -77.97066666666667
+lbd 0.8999999999999999
+bestLbd 0.8999999999999999
+newObjLbd -77.59200000000001
+bestObjLbd -77.59200000000001
+lbd 0.9999999999999999
+bestLbd 0.9999999999999999
+newObjLbd -77.21333333333332
+bestObjLbd -77.21333333333332
+lbd 1.0999999999999999
+bestLbd 1.0999999999999999
+newObjLbd -76.83466666666666
+bestObjLbd -76.83466666666666
+lbd 1.2
+bestLbd 1.2
+newObjLbd -76.45599999999999
+bestObjLbd -76.45599999999999
+lbd 1.3
+bestLbd 1.3
+newObjLbd -76.07733333333336
+bestObjLbd -76.07733333333336
+lbd 1.4000000000000001
+bestLbd 1.4000000000000001
+newObjLbd -75.69866666666667
+bestObjLbd -75.69866666666667
+lbd 1.5000000000000002
+bestLbd 1.5000000000000002
+newObjLbd -75.32000000000001
+bestObjLbd -75.32000000000001
+lbd 1.6000000000000003
+bestLbd 1.6000000000000003
+newObjLbd -74.94133333333332
+bestObjLbd -74.94133333333332
+lbd 1.7000000000000004
+bestLbd 1.7000000000000004
+newObjLbd -74.56266666666667
+bestObjLbd -74.56266666666667
+lbd 1.8000000000000005
+bestLbd 1.8000000000000005
+newObjLbd -74.184
+bestObjLbd -74.184
+lbd 1.9000000000000006
+bestLbd 1.9000000000000006
+newObjLbd -73.80533333333334
+bestObjLbd -73.80533333333334
+lbd 2.0000000000000004
+bestLbd 2.0000000000000004
+newObjLbd -73.42666666666666
+bestObjLbd -73.42666666666666
+lbd 2.1000000000000005
+bestLbd 2.1000000000000005
+newObjLbd -73.04799999999999
+bestObjLbd -73.04799999999999
+lbd 2.2000000000000006
+bestLbd 2.2000000000000006
+newObjLbd -72.66933333333333
+bestObjLbd -72.66933333333333
+lbd 2.3000000000000007
+bestLbd 2.3000000000000007
+newObjLbd -72.29066666666667
+bestObjLbd -72.29066666666667
+lbd 2.400000000000001
+bestLbd 2.400000000000001
+newObjLbd -71.91199999999999
+bestObjLbd -71.91199999999999
+lbd 2.500000000000001
+bestLbd 2.500000000000001
+newObjLbd -71.53333333333333
+bestObjLbd -71.53333333333333
+lbd 2.600000000000001
+bestLbd 2.600000000000001
+newObjLbd -71.15466666666666
+bestObjLbd -71.15466666666666
+lbd 2.700000000000001
+bestLbd 2.700000000000001
+newObjLbd -70.776
+bestObjLbd -70.776
+lbd 2.800000000000001
+bestLbd 2.800000000000001
+newObjLbd -70.42774999999999
+bestObjLbd -70.42774999999999
+lbd 2.9000000000000012
+bestLbd 2.9000000000000012
+newObjLbd -70.19941666666666
+bestObjLbd -70.19941666666666
+lbd 3.0000000000000013
+bestLbd 3.0000000000000013
+newObjLbd -70.15275
+bestObjLbd -70.15275
+bestObjLbd -70.15275
+bestLbd 3.0000000000000013
+t= 0
+s= 4
+bestPi [0.0, 0.0, 1.0]
+lbd -0.1
+bestLbd -0.1
+newObjLbd -9999
+bestObjLbd -9999
+lbd 0.0
+bestLbd 0.0
+newObjLbd -130.0
+bestObjLbd -130.0
+bestObjLbd -130.0
+bestLbd 0.0
+t= 1
+s= 0
+bestPi [1.0, 0.0, 0.0]
+lbd -0.1
+bestLbd -0.1
+newObjLbd -9999
+bestObjLbd -9999
+lbd 0.0
+bestLbd 0.0
+newObjLbd -130.0
+bestObjLbd -130.0
+bestObjLbd -130.0
+bestLbd 0.0
+t= 1
+s= 1
+bestPi [0.75, 0.25, 0.0]
+lbd -0.1
+bestLbd -0.1
+newObjLbd -9999
+bestObjLbd -9999
+lbd 0.0
+bestLbd 0.0
+newObjLbd -130.5
+bestObjLbd -130.5
+lbd 0.1
+bestLbd 0.1
+newObjLbd -130.41800000000003
+bestObjLbd -130.41800000000003
+lbd 0.2
+bestLbd 0.2
+newObjLbd -130.336
+bestObjLbd -130.336
+lbd 0.30000000000000004
+bestLbd 0.30000000000000004
+newObjLbd -130.25400000000002
+bestObjLbd -130.25400000000002
+lbd 0.4
+bestLbd 0.4
+newObjLbd -130.17199999999997
+bestObjLbd -130.17199999999997
+lbd 0.5
+bestLbd 0.5
+newObjLbd -130.09
+bestObjLbd -130.09
+lbd 0.6
+bestLbd 0.6
+newObjLbd -130.008
+bestObjLbd -130.008
+lbd 0.7
+bestLbd 0.7
+newObjLbd -129.92600000000002
+bestObjLbd -129.92600000000002
+lbd 0.7999999999999999
+bestLbd 0.7999999999999999
+newObjLbd -129.844
+bestObjLbd -129.844
+lbd 0.8999999999999999
+bestLbd 0.8999999999999999
+newObjLbd -129.762
+bestObjLbd -129.762
+lbd 0.9999999999999999
+bestLbd 0.9999999999999999
+newObjLbd -129.68
+bestObjLbd -129.68
+lbd 1.0999999999999999
+bestLbd 1.0999999999999999
+newObjLbd -129.598
+bestObjLbd -129.598
+lbd 1.2
+bestLbd 1.2
+newObjLbd -129.516
+bestObjLbd -129.516
+lbd 1.3
+bestLbd 1.3
+newObjLbd -129.434
+bestObjLbd -129.434
+lbd 1.4000000000000001
+bestLbd 1.4000000000000001
+newObjLbd -129.352
+bestObjLbd -129.352
+lbd 1.5000000000000002
+bestLbd 1.5000000000000002
+newObjLbd -129.27
+bestObjLbd -129.27
+lbd 1.6000000000000003
+bestLbd 1.6000000000000003
+newObjLbd -129.188
+bestObjLbd -129.188
+lbd 1.7000000000000004
+bestLbd 1.7000000000000004
+newObjLbd -129.106
+bestObjLbd -129.106
+lbd 1.8000000000000005
+bestLbd 1.8000000000000005
+newObjLbd -129.02399999999997
+bestObjLbd -129.02399999999997
+lbd 1.9000000000000006
+bestLbd 1.9000000000000006
+newObjLbd -128.942
+bestObjLbd -128.942
+lbd 2.0000000000000004
+bestLbd 2.0000000000000004
+newObjLbd -128.86
+bestObjLbd -128.86
+lbd 2.1000000000000005
+bestLbd 2.1000000000000005
+newObjLbd -128.778
+bestObjLbd -128.778
+lbd 2.2000000000000006
+bestLbd 2.2000000000000006
+newObjLbd -128.696
+bestObjLbd -128.696
+lbd 2.3000000000000007
+bestLbd 2.3000000000000007
+newObjLbd -128.614
+bestObjLbd -128.614
+lbd 2.400000000000001
+bestLbd 2.400000000000001
+newObjLbd -128.53199999999998
+bestObjLbd -128.53199999999998
+lbd 2.500000000000001
+bestLbd 2.500000000000001
+newObjLbd -128.45000000000002
+bestObjLbd -128.45000000000002
+lbd 2.600000000000001
+bestLbd 2.600000000000001
+newObjLbd -128.368
+bestObjLbd -128.368
+lbd 2.700000000000001
+bestLbd 2.700000000000001
+newObjLbd -128.286
+bestObjLbd -128.286
+lbd 2.800000000000001
+bestLbd 2.800000000000001
+newObjLbd -128.20399999999998
+bestObjLbd -128.20399999999998
+lbd 2.9000000000000012
+bestLbd 2.9000000000000012
+newObjLbd -128.12199999999999
+bestObjLbd -128.12199999999999
+lbd 3.0000000000000013
+bestLbd 3.0000000000000013
+newObjLbd -128.04000000000002
+bestObjLbd -128.04000000000002
+lbd 3.1000000000000014
+bestLbd 3.1000000000000014
+newObjLbd -127.958
+bestObjLbd -127.958
+lbd 3.2000000000000015
+bestLbd 3.2000000000000015
+newObjLbd -127.876
+bestObjLbd -127.876
+lbd 3.3000000000000016
+bestLbd 3.3000000000000016
+newObjLbd -127.79400000000001
+bestObjLbd -127.79400000000001
+lbd 3.4000000000000017
+bestLbd 3.4000000000000017
+newObjLbd -127.71199999999999
+bestObjLbd -127.71199999999999
+lbd 3.5000000000000018
+bestLbd 3.5000000000000018
+newObjLbd -127.63
+bestObjLbd -127.63
+lbd 3.600000000000002
+bestLbd 3.600000000000002
+newObjLbd -127.548
+bestObjLbd -127.548
+lbd 3.700000000000002
+bestLbd 3.700000000000002
+newObjLbd -127.466
+bestObjLbd -127.466
+lbd 3.800000000000002
+bestLbd 3.800000000000002
+newObjLbd -127.384
+bestObjLbd -127.384
+lbd 3.900000000000002
+bestLbd 3.900000000000002
+newObjLbd -127.30199999999999
+bestObjLbd -127.30199999999999
+lbd 4.000000000000002
+bestLbd 4.000000000000002
+newObjLbd -127.21999999999998
+bestObjLbd -127.21999999999998
+lbd 4.100000000000001
+bestLbd 4.100000000000001
+newObjLbd -127.13799999999998
+bestObjLbd -127.13799999999998
+lbd 4.200000000000001
+bestLbd 4.200000000000001
+newObjLbd -127.05600000000001
+bestObjLbd -127.05600000000001
+lbd 4.300000000000001
+bestLbd 4.300000000000001
+newObjLbd -126.974
+bestObjLbd -126.974
+lbd 4.4
+bestLbd 4.4
+newObjLbd -126.89200000000001
+bestObjLbd -126.89200000000001
+lbd 4.5
+bestLbd 4.5
+newObjLbd -126.81
+bestObjLbd -126.81
+lbd 4.6
+bestLbd 4.6
+newObjLbd -126.728
+bestObjLbd -126.728
+lbd 4.699999999999999
+bestLbd 4.699999999999999
+newObjLbd -126.646
+bestObjLbd -126.646
+lbd 4.799999999999999
+bestLbd 4.799999999999999
+newObjLbd -126.564
+bestObjLbd -126.564
+lbd 4.899999999999999
+bestLbd 4.899999999999999
+newObjLbd -126.482
+bestObjLbd -126.482
+lbd 4.999999999999998
+bestLbd 4.999999999999998
+newObjLbd -126.39999999999999
+bestObjLbd -126.39999999999999
+lbd 5.099999999999998
+bestLbd 5.099999999999998
+newObjLbd -126.31800000000001
+bestObjLbd -126.31800000000001
+lbd 5.1999999999999975
+bestLbd 5.1999999999999975
+newObjLbd -126.236
+bestObjLbd -126.236
+lbd 5.299999999999997
+bestLbd 5.299999999999997
+newObjLbd -126.15400000000001
+bestObjLbd -126.15400000000001
+lbd 5.399999999999997
+bestLbd 5.399999999999997
+newObjLbd -126.072
+bestObjLbd -126.072
+lbd 5.4999999999999964
+bestLbd 5.4999999999999964
+newObjLbd -125.99
+bestObjLbd -125.99
+lbd 5.599999999999996
+bestLbd 5.599999999999996
+newObjLbd -125.90800000000002
+bestObjLbd -125.90800000000002
+lbd 5.699999999999996
+bestLbd 5.699999999999996
+newObjLbd -125.826
+bestObjLbd -125.826
+lbd 5.799999999999995
+bestLbd 5.799999999999995
+newObjLbd -125.744
+bestObjLbd -125.744
+lbd 5.899999999999995
+bestLbd 5.899999999999995
+newObjLbd -125.66200000000002
+bestObjLbd -125.66200000000002
+lbd 5.999999999999995
+bestLbd 5.999999999999995
+newObjLbd -125.58000000000001
+bestObjLbd -125.58000000000001
+lbd 6.099999999999994
+bestLbd 6.099999999999994
+newObjLbd -125.498
+bestObjLbd -125.498
+lbd 6.199999999999994
+bestLbd 6.199999999999994
+newObjLbd -125.41600000000001
+bestObjLbd -125.41600000000001
+lbd 6.299999999999994
+bestLbd 6.299999999999994
+newObjLbd -125.37400000000001
+bestObjLbd -125.37400000000001
+lbd 6.399999999999993
+bestLbd 6.399999999999993
+newObjLbd -125.37200000000001
+bestObjLbd -125.37200000000001
+lbd 6.499999999999993
+bestLbd 6.499999999999993
+newObjLbd -125.37
+bestObjLbd -125.37
+lbd 6.5999999999999925
+bestLbd 6.5999999999999925
+newObjLbd -125.368
+bestObjLbd -125.368
+lbd 6.699999999999992
+bestLbd 6.699999999999992
+newObjLbd -125.366
+bestObjLbd -125.366
+lbd 6.799999999999992
+bestLbd 6.799999999999992
+newObjLbd -125.36399999999999
+bestObjLbd -125.36399999999999
+lbd 6.8999999999999915
+bestLbd 6.8999999999999915
+newObjLbd -125.36200000000001
+bestObjLbd -125.36200000000001
+lbd 6.999999999999991
+bestLbd 6.999999999999991
+newObjLbd -125.36
+bestObjLbd -125.36
+lbd 7.099999999999991
+bestLbd 7.099999999999991
+newObjLbd -125.358
+bestObjLbd -125.358
+bestObjLbd -125.358
+bestLbd 7.099999999999991
+t= 1
+s= 2
+bestPi [0.75, 0.25, 0.0]
+lbd -0.1
+bestLbd -0.1
+newObjLbd -9999
+bestObjLbd -9999
+lbd 0.0
+bestLbd 0.0
+newObjLbd -130.75
+bestObjLbd -130.75
+lbd 0.1
+bestLbd 0.1
+newObjLbd -130.49800000000002
+bestObjLbd -130.49800000000002
+lbd 0.2
+bestLbd 0.2
+newObjLbd -130.24599999999998
+bestObjLbd -130.24599999999998
+lbd 0.30000000000000004
+bestLbd 0.30000000000000004
+newObjLbd -129.994
+bestObjLbd -129.994
+lbd 0.4
+bestLbd 0.4
+newObjLbd -129.742
+bestObjLbd -129.742
+lbd 0.5
+bestLbd 0.5
+newObjLbd -129.49
+bestObjLbd -129.49
+lbd 0.6
+bestLbd 0.6
+newObjLbd -129.238
+bestObjLbd -129.238
+lbd 0.7
+bestLbd 0.7
+newObjLbd -128.98600000000002
+bestObjLbd -128.98600000000002
+lbd 0.7999999999999999
+bestLbd 0.7999999999999999
+newObjLbd -128.734
+bestObjLbd -128.734
+lbd 0.8999999999999999
+bestLbd 0.8999999999999999
+newObjLbd -128.482
+bestObjLbd -128.482
+lbd 0.9999999999999999
+bestLbd 0.9999999999999999
+newObjLbd -128.23
+bestObjLbd -128.23
+lbd 1.0999999999999999
+bestLbd 1.0999999999999999
+newObjLbd -127.978
+bestObjLbd -127.978
+lbd 1.2
+bestLbd 1.2
+newObjLbd -127.72599999999998
+bestObjLbd -127.72599999999998
+lbd 1.3
+bestLbd 1.3
+newObjLbd -127.474
+bestObjLbd -127.474
+lbd 1.4000000000000001
+bestLbd 1.4000000000000001
+newObjLbd -127.22200000000001
+bestObjLbd -127.22200000000001
+lbd 1.5000000000000002
+bestLbd 1.5000000000000002
+newObjLbd -126.97000000000001
+bestObjLbd -126.97000000000001
+lbd 1.6000000000000003
+bestLbd 1.6000000000000003
+newObjLbd -126.718
+bestObjLbd -126.718
+lbd 1.7000000000000004
+bestLbd 1.7000000000000004
+newObjLbd -126.46599999999998
+bestObjLbd -126.46599999999998
+lbd 1.8000000000000005
+bestLbd 1.8000000000000005
+newObjLbd -126.21400000000001
+bestObjLbd -126.21400000000001
+lbd 1.9000000000000006
+bestLbd 1.9000000000000006
+newObjLbd -125.962
+bestObjLbd -125.962
+lbd 2.0000000000000004
+bestLbd 2.0000000000000004
+newObjLbd -125.71
+bestObjLbd -125.71
+lbd 2.1000000000000005
+bestLbd 2.1000000000000005
+newObjLbd -125.458
+bestObjLbd -125.458
+lbd 2.2000000000000006
+bestLbd 2.2000000000000006
+newObjLbd -125.20599999999999
+bestObjLbd -125.20599999999999
+lbd 2.3000000000000007
+bestLbd 2.3000000000000007
+newObjLbd -124.954
+bestObjLbd -124.954
+lbd 2.400000000000001
+bestLbd 2.400000000000001
+newObjLbd -124.702
+bestObjLbd -124.702
+lbd 2.500000000000001
+bestLbd 2.500000000000001
+newObjLbd -124.45
+bestObjLbd -124.45
+lbd 2.600000000000001
+bestLbd 2.600000000000001
+newObjLbd -124.27799999999999
+bestObjLbd -124.27799999999999
+lbd 2.700000000000001
+bestLbd 2.700000000000001
+newObjLbd -124.10600000000002
+bestObjLbd -124.10600000000002
+lbd 2.800000000000001
+bestLbd 2.800000000000001
+newObjLbd -123.934
+bestObjLbd -123.934
+lbd 2.9000000000000012
+bestLbd 2.9000000000000012
+newObjLbd -123.79017222222222
+bestObjLbd -123.79017222222222
+lbd 3.0000000000000013
+bestLbd 3.0000000000000013
+newObjLbd -123.69473163888888
+bestObjLbd -123.69473163888888
+lbd 3.1000000000000014
+bestLbd 3.1000000000000014
+newObjLbd -123.64139830555555
+bestObjLbd -123.64139830555555
+lbd 3.2000000000000015
+bestLbd 3.2000000000000015
+newObjLbd -123.58806497222223
+bestObjLbd -123.58806497222223
+lbd 3.3000000000000016
+bestLbd 3.3000000000000016
+newObjLbd -123.53473163888887
+bestObjLbd -123.53473163888887
+lbd 3.4000000000000017
+bestLbd 3.4000000000000017
+newObjLbd -123.48139830555556
+bestObjLbd -123.48139830555556
+lbd 3.5000000000000018
+bestLbd 3.5000000000000018
+newObjLbd -123.4280649722222
+bestObjLbd -123.4280649722222
+lbd 3.600000000000002
+bestLbd 3.600000000000002
+newObjLbd -123.37473163888887
+bestObjLbd -123.37473163888887
+lbd 3.700000000000002
+bestLbd 3.700000000000002
+newObjLbd -123.32139830555556
+bestObjLbd -123.32139830555556
+lbd 3.800000000000002
+bestLbd 3.800000000000002
+newObjLbd -123.26806497222222
+bestObjLbd -123.26806497222222
+lbd 3.900000000000002
+bestLbd 3.900000000000002
+newObjLbd -123.21473163888886
+bestObjLbd -123.21473163888886
+lbd 4.000000000000002
+bestLbd 4.000000000000002
+newObjLbd -123.16139830555555
+bestObjLbd -123.16139830555555
+lbd 4.100000000000001
+bestLbd 4.100000000000001
+newObjLbd -123.10806497222222
+bestObjLbd -123.10806497222222
+lbd 4.200000000000001
+bestLbd 4.200000000000001
+newObjLbd -123.05473163888888
+bestObjLbd -123.05473163888888
+lbd 4.300000000000001
+bestLbd 4.300000000000001
+newObjLbd -123.00800663888889
+bestObjLbd -123.00800663888889
+bestObjLbd -123.00800663888889
+bestLbd 4.300000000000001
+t= 1
+s= 3
+bestPi [0.75, 0.25, 0.0]
+lbd -0.1
+bestLbd -0.1
+newObjLbd -9999
+bestObjLbd -9999
+lbd 0.0
+bestLbd 0.0
+newObjLbd -131.0
+bestObjLbd -131.0
+lbd 0.1
+bestLbd 0.1
+newObjLbd -130.62133333333335
+bestObjLbd -130.62133333333335
+lbd 0.2
+bestLbd 0.2
+newObjLbd -130.24266666666665
+bestObjLbd -130.24266666666665
+lbd 0.30000000000000004
+bestLbd 0.30000000000000004
+newObjLbd -129.86399999999998
+bestObjLbd -129.86399999999998
+lbd 0.4
+bestLbd 0.4
+newObjLbd -129.48533333333333
+bestObjLbd -129.48533333333333
+lbd 0.5
+bestLbd 0.5
+newObjLbd -129.10666666666668
+bestObjLbd -129.10666666666668
+lbd 0.6
+bestLbd 0.6
+newObjLbd -128.728
+bestObjLbd -128.728
+lbd 0.7
+bestLbd 0.7
+newObjLbd -128.34933333333333
+bestObjLbd -128.34933333333333
+lbd 0.7999999999999999
+bestLbd 0.7999999999999999
+newObjLbd -127.97066666666667
+bestObjLbd -127.97066666666667
+lbd 0.8999999999999999
+bestLbd 0.8999999999999999
+newObjLbd -127.59200000000001
+bestObjLbd -127.59200000000001
+lbd 0.9999999999999999
+bestLbd 0.9999999999999999
+newObjLbd -127.21333333333332
+bestObjLbd -127.21333333333332
+lbd 1.0999999999999999
+bestLbd 1.0999999999999999
+newObjLbd -126.83466666666666
+bestObjLbd -126.83466666666666
+lbd 1.2
+bestLbd 1.2
+newObjLbd -126.45599999999999
+bestObjLbd -126.45599999999999
+lbd 1.3
+bestLbd 1.3
+newObjLbd -126.07733333333333
+bestObjLbd -126.07733333333333
+lbd 1.4000000000000001
+bestLbd 1.4000000000000001
+newObjLbd -125.69866666666667
+bestObjLbd -125.69866666666667
+lbd 1.5000000000000002
+bestLbd 1.5000000000000002
+newObjLbd -125.32
+bestObjLbd -125.32
+lbd 1.6000000000000003
+bestLbd 1.6000000000000003
+newObjLbd -124.94133333333332
+bestObjLbd -124.94133333333332
+lbd 1.7000000000000004
+bestLbd 1.7000000000000004
+newObjLbd -124.56266666666667
+bestObjLbd -124.56266666666667
+lbd 1.8000000000000005
+bestLbd 1.8000000000000005
+newObjLbd -124.184
+bestObjLbd -124.184
+lbd 1.9000000000000006
+bestLbd 1.9000000000000006
+newObjLbd -123.82533333333333
+bestObjLbd -123.82533333333333
+lbd 2.0000000000000004
+bestLbd 2.0000000000000004
+newObjLbd -123.52666666666669
+bestObjLbd -123.52666666666669
+lbd 2.1000000000000005
+bestLbd 2.1000000000000005
+newObjLbd -123.228
+bestObjLbd -123.228
+lbd 2.2000000000000006
+bestLbd 2.2000000000000006
+newObjLbd -123.01543333333333
+bestObjLbd -123.01543333333333
+lbd 2.3000000000000007
+bestLbd 2.3000000000000007
+newObjLbd -122.95534935416666
+bestObjLbd -122.95534935416666
+bestObjLbd -122.95534935416666
+bestLbd 2.3000000000000007
+t= 1
+s= 4
+bestPi [0.0, 0.0, 1.0]
+lbd -0.1
+bestLbd -0.1
+newObjLbd -9999
+bestObjLbd -9999
+lbd 0.0
+bestLbd 0.0
+newObjLbd -180.0
+bestObjLbd -180.0
+bestObjLbd -180.0
+bestLbd 0.0
